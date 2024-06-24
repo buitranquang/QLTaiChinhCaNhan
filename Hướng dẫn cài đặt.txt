@@ -1,0 +1,17 @@
+Hướng dẫn cài đặt phần mềm quản lý tài chính
+
+Bước 1: tạo cơ sở dữ liệu
+	- vào file QLTaiChinh.sql trong phần mềm quản trị sql server
+	- chạy dòng query đầu "CREATE DATABASE QLTaiChinh" để tạo một database
+	- tiếp tục chạy tất cả các dòng còn lại để tạo bảng và nạp dữ liệu cho 	database
+Bước 2: liên kết phần mềm với cơ sở dữ liệu
+	- mở file "QLTaiChinhCaNhan.sln" trong thư mục Demo bằng Visual studio
+	- mở phần Server Explorer hoặc nhấn ctrl + alt + s 
+	- nhấn vào conection mới 
+	- trong phần server name copy server name trong trình quản trị sql và pase vào
+	- ở phần "encrypt" chọn flase
+	- sau đó chọn "QLTaiChinh" ở "connect to a database"
+Bước 3: thay đổi connection string
+	- sau khi kết nối với csdl chọn csdl vừa kết nối và mở properties copy tất cả trong "Connection String"
+	- vào dự án DAL chọn thư mục "DatabaseAccess.cs"
+	- thay đổi chuỗi kết nối là hoàn thành 
