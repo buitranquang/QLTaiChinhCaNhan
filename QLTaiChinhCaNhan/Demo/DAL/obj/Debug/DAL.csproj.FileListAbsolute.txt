@@ -1,0 +1,117 @@
+D:\ThucTapPLP\QuanLyChiTieuCaNhan_PLP\DAL\bin\Debug\DAL.dll
+D:\ThucTapPLP\QuanLyChiTieuCaNhan_PLP\DAL\bin\Debug\DAL.pdb
+D:\ThucTapPLP\QuanLyChiTieuCaNhan_PLP\DAL\bin\Debug\DTO.dll
+D:\ThucTapPLP\QuanLyChiTieuCaNhan_PLP\DAL\bin\Debug\DTO.pdb
+D:\ThucTapPLP\QuanLyChiTieuCaNhan_PLP\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\ThucTapPLP\QuanLyChiTieuCaNhan_PLP\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\ThucTapPLP\QuanLyChiTieuCaNhan_PLP\DAL\obj\Debug\DAL.csproj.Up2Date
+D:\ThucTapPLP\QuanLyChiTieuCaNhan_PLP\DAL\obj\Debug\DAL.dll
+D:\ThucTapPLP\QuanLyChiTieuCaNhan_PLP\DAL\obj\Debug\DAL.pdb
+D:\ThucTapPLP\QuanLyChiTieuCaNhan_PLP\DAL\bin\Debug\EntityFramework.dll
+D:\ThucTapPLP\QuanLyChiTieuCaNhan_PLP\DAL\bin\Debug\DTO.dll.config
+D:\ThucTapPLP\QuanLyChiTieuCaNhan_PLP\DAL\bin\Debug\EntityFramework.xml
+D:\ThucTapPLP\backup2\DAL\bin\Debug\DAL.dll
+D:\ThucTapPLP\backup2\DAL\bin\Debug\DAL.pdb
+D:\ThucTapPLP\backup2\DAL\bin\Debug\DTO.dll
+D:\ThucTapPLP\backup2\DAL\bin\Debug\EntityFramework.dll
+D:\ThucTapPLP\backup2\DAL\bin\Debug\DTO.pdb
+D:\ThucTapPLP\backup2\DAL\bin\Debug\DTO.dll.config
+D:\ThucTapPLP\backup2\DAL\bin\Debug\EntityFramework.xml
+D:\ThucTapPLP\backup2\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\ThucTapPLP\backup2\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\ThucTapPLP\backup2\DAL\obj\Debug\DAL.csproj.Up2Date
+D:\ThucTapPLP\backup2\DAL\obj\Debug\DAL.dll
+D:\ThucTapPLP\backup2\DAL\obj\Debug\DAL.pdb
+D:\ThucTapPLP\QLChiTieuCaNhan\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\ThucTapPLP\QLChiTieuCaNhan\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\ThucTapPLP\QLChiTieuCaNhan\DAL\obj\Debug\DAL.dll
+D:\ThucTapPLP\QLChiTieuCaNhan\DAL\obj\Debug\DAL.pdb
+D:\ThucTapPLP\QLChiTieuCaNhan\DAL\bin\Debug\DAL.dll
+D:\ThucTapPLP\QLChiTieuCaNhan\DAL\bin\Debug\DAL.pdb
+D:\ThucTapPLP\QLChiTieuCaNhan\DAL\bin\Debug\DTO.dll
+D:\ThucTapPLP\QLChiTieuCaNhan\DAL\bin\Debug\EntityFramework.dll
+D:\ThucTapPLP\QLChiTieuCaNhan\DAL\bin\Debug\DTO.pdb
+D:\ThucTapPLP\QLChiTieuCaNhan\DAL\bin\Debug\DTO.dll.config
+D:\ThucTapPLP\QLChiTieuCaNhan\DAL\bin\Debug\EntityFramework.xml
+D:\ThucTapPLP\QLChiTieuCaNhan\DAL\obj\Debug\DAL.csproj.Up2Date
+D:\ThucTapPLP\QLChiTieuCaNhan - Copy\DAL\bin\Debug\DAL.dll
+D:\ThucTapPLP\QLChiTieuCaNhan - Copy\DAL\bin\Debug\DAL.pdb
+D:\ThucTapPLP\QLChiTieuCaNhan - Copy\DAL\bin\Debug\DTO.dll
+D:\ThucTapPLP\QLChiTieuCaNhan - Copy\DAL\bin\Debug\EntityFramework.dll
+D:\ThucTapPLP\QLChiTieuCaNhan - Copy\DAL\bin\Debug\DTO.pdb
+D:\ThucTapPLP\QLChiTieuCaNhan - Copy\DAL\bin\Debug\DTO.dll.config
+D:\ThucTapPLP\QLChiTieuCaNhan - Copy\DAL\bin\Debug\EntityFramework.xml
+D:\ThucTapPLP\QLChiTieuCaNhan - Copy\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\ThucTapPLP\QLChiTieuCaNhan - Copy\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\ThucTapPLP\QLChiTieuCaNhan - Copy\DAL\obj\Debug\DAL.csproj.Up2Date
+D:\ThucTapPLP\QLChiTieuCaNhan - Copy\DAL\obj\Debug\DAL.dll
+D:\ThucTapPLP\QLChiTieuCaNhan - Copy\DAL\obj\Debug\DAL.pdb
+E:\QLChiTieuCaNhan\DAL\bin\Debug\DAL.dll
+E:\QLChiTieuCaNhan\DAL\bin\Debug\DAL.pdb
+E:\QLChiTieuCaNhan\DAL\bin\Debug\DTO.dll
+E:\QLChiTieuCaNhan\DAL\bin\Debug\EntityFramework.dll
+E:\QLChiTieuCaNhan\DAL\bin\Debug\DTO.pdb
+E:\QLChiTieuCaNhan\DAL\bin\Debug\EntityFramework.xml
+E:\QLChiTieuCaNhan\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+E:\QLChiTieuCaNhan\DAL\obj\Debug\DAL.dll
+E:\QLChiTieuCaNhan\DAL\obj\Debug\DAL.pdb
+C:\Users\PC-Quang\Downloads\QLChiTieuCaNhan\QLChiTieuCaNhan\DAL\bin\Debug\DAL.dll
+C:\Users\PC-Quang\Downloads\QLChiTieuCaNhan\QLChiTieuCaNhan\DAL\bin\Debug\DAL.pdb
+C:\Users\PC-Quang\Downloads\QLChiTieuCaNhan\QLChiTieuCaNhan\DAL\bin\Debug\DTO.dll
+C:\Users\PC-Quang\Downloads\QLChiTieuCaNhan\QLChiTieuCaNhan\DAL\bin\Debug\EntityFramework.dll
+C:\Users\PC-Quang\Downloads\QLChiTieuCaNhan\QLChiTieuCaNhan\DAL\bin\Debug\DTO.pdb
+C:\Users\PC-Quang\Downloads\QLChiTieuCaNhan\QLChiTieuCaNhan\DAL\bin\Debug\DTO.dll.config
+C:\Users\PC-Quang\Downloads\QLChiTieuCaNhan\QLChiTieuCaNhan\DAL\bin\Debug\EntityFramework.xml
+C:\Users\PC-Quang\Downloads\QLChiTieuCaNhan\QLChiTieuCaNhan\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\PC-Quang\Downloads\QLChiTieuCaNhan\QLChiTieuCaNhan\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\PC-Quang\Downloads\QLChiTieuCaNhan\QLChiTieuCaNhan\DAL\obj\Debug\DAL.csproj.Up2Date
+C:\Users\PC-Quang\Downloads\QLChiTieuCaNhan\QLChiTieuCaNhan\DAL\obj\Debug\DAL.dll
+C:\Users\PC-Quang\Downloads\QLChiTieuCaNhan\QLChiTieuCaNhan\DAL\obj\Debug\DAL.pdb
+D:\ThucTapPLP\BuiTranQuang_ver1\QLTaiChinh_App\DAL\bin\Debug\DAL.dll
+D:\ThucTapPLP\BuiTranQuang_ver1\QLTaiChinh_App\DAL\bin\Debug\DAL.pdb
+D:\ThucTapPLP\BuiTranQuang_ver1\QLTaiChinh_App\DAL\bin\Debug\DTO.dll
+D:\ThucTapPLP\BuiTranQuang_ver1\QLTaiChinh_App\DAL\bin\Debug\EntityFramework.dll
+D:\ThucTapPLP\BuiTranQuang_ver1\QLTaiChinh_App\DAL\bin\Debug\DTO.pdb
+D:\ThucTapPLP\BuiTranQuang_ver1\QLTaiChinh_App\DAL\bin\Debug\DTO.dll.config
+D:\ThucTapPLP\BuiTranQuang_ver1\QLTaiChinh_App\DAL\bin\Debug\EntityFramework.xml
+D:\ThucTapPLP\BuiTranQuang_ver1\QLTaiChinh_App\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\ThucTapPLP\BuiTranQuang_ver1\QLTaiChinh_App\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\ThucTapPLP\BuiTranQuang_ver1\QLTaiChinh_App\DAL\obj\Debug\DAL.csproj.Up2Date
+D:\ThucTapPLP\BuiTranQuang_ver1\QLTaiChinh_App\DAL\obj\Debug\DAL.dll
+D:\ThucTapPLP\BuiTranQuang_ver1\QLTaiChinh_App\DAL\obj\Debug\DAL.pdb
+D:\ThucTapPLP\BuiTranQuang\QLTaiChinh_App\DAL\bin\Debug\DAL.dll
+D:\ThucTapPLP\BuiTranQuang\QLTaiChinh_App\DAL\bin\Debug\DAL.pdb
+D:\ThucTapPLP\BuiTranQuang\QLTaiChinh_App\DAL\bin\Debug\DTO.dll
+D:\ThucTapPLP\BuiTranQuang\QLTaiChinh_App\DAL\bin\Debug\EntityFramework.dll
+D:\ThucTapPLP\BuiTranQuang\QLTaiChinh_App\DAL\bin\Debug\DTO.pdb
+D:\ThucTapPLP\BuiTranQuang\QLTaiChinh_App\DAL\bin\Debug\DTO.dll.config
+D:\ThucTapPLP\BuiTranQuang\QLTaiChinh_App\DAL\bin\Debug\EntityFramework.xml
+D:\ThucTapPLP\BuiTranQuang\QLTaiChinh_App\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\ThucTapPLP\BuiTranQuang\QLTaiChinh_App\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\ThucTapPLP\BuiTranQuang\QLTaiChinh_App\DAL\obj\Debug\DAL.csproj.Up2Date
+D:\ThucTapPLP\BuiTranQuang\QLTaiChinh_App\DAL\obj\Debug\DAL.dll
+D:\ThucTapPLP\BuiTranQuang\QLTaiChinh_App\DAL\obj\Debug\DAL.pdb
+C:\Users\PC-Quang\OneDrive\Desktop\201592-BuiTranQuang-QLtaiChinhCaNhan\201592-BuiTranQuang-QLtaiChinhCaNhan\QLTaiChinh_App\DAL\bin\Debug\DAL.dll
+C:\Users\PC-Quang\OneDrive\Desktop\201592-BuiTranQuang-QLtaiChinhCaNhan\201592-BuiTranQuang-QLtaiChinhCaNhan\QLTaiChinh_App\DAL\bin\Debug\DAL.pdb
+C:\Users\PC-Quang\OneDrive\Desktop\201592-BuiTranQuang-QLtaiChinhCaNhan\201592-BuiTranQuang-QLtaiChinhCaNhan\QLTaiChinh_App\DAL\bin\Debug\DTO.dll
+C:\Users\PC-Quang\OneDrive\Desktop\201592-BuiTranQuang-QLtaiChinhCaNhan\201592-BuiTranQuang-QLtaiChinhCaNhan\QLTaiChinh_App\DAL\bin\Debug\EntityFramework.dll
+C:\Users\PC-Quang\OneDrive\Desktop\201592-BuiTranQuang-QLtaiChinhCaNhan\201592-BuiTranQuang-QLtaiChinhCaNhan\QLTaiChinh_App\DAL\bin\Debug\DTO.pdb
+C:\Users\PC-Quang\OneDrive\Desktop\201592-BuiTranQuang-QLtaiChinhCaNhan\201592-BuiTranQuang-QLtaiChinhCaNhan\QLTaiChinh_App\DAL\bin\Debug\DTO.dll.config
+C:\Users\PC-Quang\OneDrive\Desktop\201592-BuiTranQuang-QLtaiChinhCaNhan\201592-BuiTranQuang-QLtaiChinhCaNhan\QLTaiChinh_App\DAL\bin\Debug\EntityFramework.xml
+C:\Users\PC-Quang\OneDrive\Desktop\201592-BuiTranQuang-QLtaiChinhCaNhan\201592-BuiTranQuang-QLtaiChinhCaNhan\QLTaiChinh_App\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\PC-Quang\OneDrive\Desktop\201592-BuiTranQuang-QLtaiChinhCaNhan\201592-BuiTranQuang-QLtaiChinhCaNhan\QLTaiChinh_App\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\PC-Quang\OneDrive\Desktop\201592-BuiTranQuang-QLtaiChinhCaNhan\201592-BuiTranQuang-QLtaiChinhCaNhan\QLTaiChinh_App\DAL\obj\Debug\DAL.csproj.Up2Date
+C:\Users\PC-Quang\OneDrive\Desktop\201592-BuiTranQuang-QLtaiChinhCaNhan\201592-BuiTranQuang-QLtaiChinhCaNhan\QLTaiChinh_App\DAL\obj\Debug\DAL.dll
+C:\Users\PC-Quang\OneDrive\Desktop\201592-BuiTranQuang-QLtaiChinhCaNhan\201592-BuiTranQuang-QLtaiChinhCaNhan\QLTaiChinh_App\DAL\obj\Debug\DAL.pdb
+C:\Users\PC-Quang\OneDrive\Desktop\201592-BuiTranQuang-QLtaiChinhCaNhan\201592-BuiTranQuang-QLTaiChinhCaNhan\Demo\DAL\bin\Debug\DAL.dll
+C:\Users\PC-Quang\OneDrive\Desktop\201592-BuiTranQuang-QLtaiChinhCaNhan\201592-BuiTranQuang-QLTaiChinhCaNhan\Demo\DAL\bin\Debug\DAL.pdb
+C:\Users\PC-Quang\OneDrive\Desktop\201592-BuiTranQuang-QLtaiChinhCaNhan\201592-BuiTranQuang-QLTaiChinhCaNhan\Demo\DAL\bin\Debug\DTO.dll
+C:\Users\PC-Quang\OneDrive\Desktop\201592-BuiTranQuang-QLtaiChinhCaNhan\201592-BuiTranQuang-QLTaiChinhCaNhan\Demo\DAL\bin\Debug\EntityFramework.dll
+C:\Users\PC-Quang\OneDrive\Desktop\201592-BuiTranQuang-QLtaiChinhCaNhan\201592-BuiTranQuang-QLTaiChinhCaNhan\Demo\DAL\bin\Debug\DTO.pdb
+C:\Users\PC-Quang\OneDrive\Desktop\201592-BuiTranQuang-QLtaiChinhCaNhan\201592-BuiTranQuang-QLTaiChinhCaNhan\Demo\DAL\bin\Debug\DTO.dll.config
+C:\Users\PC-Quang\OneDrive\Desktop\201592-BuiTranQuang-QLtaiChinhCaNhan\201592-BuiTranQuang-QLTaiChinhCaNhan\Demo\DAL\bin\Debug\EntityFramework.xml
+C:\Users\PC-Quang\OneDrive\Desktop\201592-BuiTranQuang-QLtaiChinhCaNhan\201592-BuiTranQuang-QLTaiChinhCaNhan\Demo\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\PC-Quang\OneDrive\Desktop\201592-BuiTranQuang-QLtaiChinhCaNhan\201592-BuiTranQuang-QLTaiChinhCaNhan\Demo\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\PC-Quang\OneDrive\Desktop\201592-BuiTranQuang-QLtaiChinhCaNhan\201592-BuiTranQuang-QLTaiChinhCaNhan\Demo\DAL\obj\Debug\DAL.csproj.Up2Date
+C:\Users\PC-Quang\OneDrive\Desktop\201592-BuiTranQuang-QLtaiChinhCaNhan\201592-BuiTranQuang-QLTaiChinhCaNhan\Demo\DAL\obj\Debug\DAL.dll
+C:\Users\PC-Quang\OneDrive\Desktop\201592-BuiTranQuang-QLtaiChinhCaNhan\201592-BuiTranQuang-QLTaiChinhCaNhan\Demo\DAL\obj\Debug\DAL.pdb

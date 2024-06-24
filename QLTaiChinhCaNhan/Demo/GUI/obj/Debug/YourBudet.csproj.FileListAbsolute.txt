@@ -1,0 +1,126 @@
+D:\ThucTapPLP\backup2\ShopManage\obj\Debug\YourBudet.csproj.AssemblyReference.cache
+D:\ThucTapPLP\backup2\ShopManage\obj\Debug\YourBudet.App.UCDSHoaDon.resources
+D:\ThucTapPLP\backup2\ShopManage\obj\Debug\YourBudet.App.UCTongQuan.resources
+D:\ThucTapPLP\backup2\ShopManage\obj\Debug\YourBudet.App.UCKhachHang.resources
+D:\ThucTapPLP\backup2\ShopManage\obj\Debug\YourBudet.App.UCNhanVien.resources
+D:\ThucTapPLP\backup2\ShopManage\obj\Debug\YourBudet.App.UCSanPham.resources
+D:\ThucTapPLP\backup2\ShopManage\obj\Debug\YourBudet.App.UCThongKe.resources
+D:\ThucTapPLP\backup2\ShopManage\obj\Debug\YourBudet.DangKy.resources
+D:\ThucTapPLP\backup2\ShopManage\obj\Debug\YourBudet.DangNhap.resources
+D:\ThucTapPLP\backup2\ShopManage\obj\Debug\YourBudet.MainForm.resources
+D:\ThucTapPLP\backup2\ShopManage\obj\Debug\YourBudet.Properties.Resources.resources
+D:\ThucTapPLP\backup2\ShopManage\obj\Debug\YourBudet.csproj.GenerateResource.cache
+D:\ThucTapPLP\backup2\ShopManage\obj\Debug\YourBudet.csproj.CoreCompileInputs.cache
+D:\ThucTapPLP\backup2\ShopManage\bin\Debug\YourBudet.exe.config
+D:\ThucTapPLP\backup2\ShopManage\bin\Debug\YourBudet.exe
+D:\ThucTapPLP\backup2\ShopManage\bin\Debug\YourBudet.pdb
+D:\ThucTapPLP\backup2\ShopManage\bin\Debug\BLL.dll
+D:\ThucTapPLP\backup2\ShopManage\bin\Debug\DTO.dll
+D:\ThucTapPLP\backup2\ShopManage\bin\Debug\EntityFramework.dll
+D:\ThucTapPLP\backup2\ShopManage\bin\Debug\EntityFramework.SqlServer.dll
+D:\ThucTapPLP\backup2\ShopManage\bin\Debug\DAL.dll
+D:\ThucTapPLP\backup2\ShopManage\bin\Debug\BLL.pdb
+D:\ThucTapPLP\backup2\ShopManage\bin\Debug\DTO.pdb
+D:\ThucTapPLP\backup2\ShopManage\bin\Debug\DTO.dll.config
+D:\ThucTapPLP\backup2\ShopManage\bin\Debug\EntityFramework.xml
+D:\ThucTapPLP\backup2\ShopManage\bin\Debug\EntityFramework.SqlServer.xml
+D:\ThucTapPLP\backup2\ShopManage\bin\Debug\DAL.pdb
+D:\ThucTapPLP\backup2\ShopManage\obj\Debug\YourBudet.csproj.Up2Date
+D:\ThucTapPLP\backup2\ShopManage\obj\Debug\YourBudet.exe
+D:\ThucTapPLP\backup2\ShopManage\obj\Debug\YourBudet.pdb
+D:\ThucTapPLP\backup2\ShopManage\obj\Debug\YourBudet.AddForm.resources
+D:\ThucTapPLP\QLChiTieuCaNhan\ShopManage\obj\Debug\YourBudet.csproj.AssemblyReference.cache
+D:\ThucTapPLP\QLChiTieuCaNhan\ShopManage\obj\Debug\YourBudet.AddForm.resources
+D:\ThucTapPLP\QLChiTieuCaNhan\ShopManage\obj\Debug\YourBudet.App.UCTongQuan.resources
+D:\ThucTapPLP\QLChiTieuCaNhan\ShopManage\obj\Debug\YourBudet.DangKy.resources
+D:\ThucTapPLP\QLChiTieuCaNhan\ShopManage\obj\Debug\YourBudet.DangNhap.resources
+D:\ThucTapPLP\QLChiTieuCaNhan\ShopManage\obj\Debug\YourBudet.MainForm.resources
+D:\ThucTapPLP\QLChiTieuCaNhan\ShopManage\obj\Debug\YourBudet.Properties.Resources.resources
+D:\ThucTapPLP\QLChiTieuCaNhan\ShopManage\obj\Debug\YourBudet.csproj.GenerateResource.cache
+D:\ThucTapPLP\QLChiTieuCaNhan\ShopManage\obj\Debug\YourBudet.csproj.CoreCompileInputs.cache
+D:\ThucTapPLP\QLChiTieuCaNhan\ShopManage\obj\Debug\YourBudet.exe
+D:\ThucTapPLP\QLChiTieuCaNhan\ShopManage\obj\Debug\YourBudet.pdb
+D:\ThucTapPLP\QLChiTieuCaNhan\ShopManage\bin\Debug\YourBudet.exe.config
+D:\ThucTapPLP\QLChiTieuCaNhan\ShopManage\bin\Debug\YourBudet.exe
+D:\ThucTapPLP\QLChiTieuCaNhan\ShopManage\bin\Debug\YourBudet.pdb
+D:\ThucTapPLP\QLChiTieuCaNhan\ShopManage\bin\Debug\BLL.dll
+D:\ThucTapPLP\QLChiTieuCaNhan\ShopManage\bin\Debug\DTO.dll
+D:\ThucTapPLP\QLChiTieuCaNhan\ShopManage\bin\Debug\EntityFramework.dll
+D:\ThucTapPLP\QLChiTieuCaNhan\ShopManage\bin\Debug\EntityFramework.SqlServer.dll
+D:\ThucTapPLP\QLChiTieuCaNhan\ShopManage\bin\Debug\DAL.dll
+D:\ThucTapPLP\QLChiTieuCaNhan\ShopManage\bin\Debug\BLL.pdb
+D:\ThucTapPLP\QLChiTieuCaNhan\ShopManage\bin\Debug\DTO.pdb
+D:\ThucTapPLP\QLChiTieuCaNhan\ShopManage\bin\Debug\DTO.dll.config
+D:\ThucTapPLP\QLChiTieuCaNhan\ShopManage\bin\Debug\EntityFramework.xml
+D:\ThucTapPLP\QLChiTieuCaNhan\ShopManage\bin\Debug\EntityFramework.SqlServer.xml
+D:\ThucTapPLP\QLChiTieuCaNhan\ShopManage\bin\Debug\DAL.pdb
+D:\ThucTapPLP\QLChiTieuCaNhan\ShopManage\obj\Debug\YourBudet.csproj.Up2Date
+D:\ThucTapPLP\QLChiTieuCaNhan - Copy\ShopManage\bin\Debug\YourBudet.exe.config
+D:\ThucTapPLP\QLChiTieuCaNhan - Copy\ShopManage\bin\Debug\YourBudet.exe
+D:\ThucTapPLP\QLChiTieuCaNhan - Copy\ShopManage\bin\Debug\YourBudet.pdb
+D:\ThucTapPLP\QLChiTieuCaNhan - Copy\ShopManage\bin\Debug\BLL.dll
+D:\ThucTapPLP\QLChiTieuCaNhan - Copy\ShopManage\bin\Debug\DTO.dll
+D:\ThucTapPLP\QLChiTieuCaNhan - Copy\ShopManage\bin\Debug\EntityFramework.dll
+D:\ThucTapPLP\QLChiTieuCaNhan - Copy\ShopManage\bin\Debug\EntityFramework.SqlServer.dll
+D:\ThucTapPLP\QLChiTieuCaNhan - Copy\ShopManage\bin\Debug\DAL.dll
+D:\ThucTapPLP\QLChiTieuCaNhan - Copy\ShopManage\bin\Debug\BLL.pdb
+D:\ThucTapPLP\QLChiTieuCaNhan - Copy\ShopManage\bin\Debug\DTO.pdb
+D:\ThucTapPLP\QLChiTieuCaNhan - Copy\ShopManage\bin\Debug\DTO.dll.config
+D:\ThucTapPLP\QLChiTieuCaNhan - Copy\ShopManage\bin\Debug\EntityFramework.xml
+D:\ThucTapPLP\QLChiTieuCaNhan - Copy\ShopManage\bin\Debug\EntityFramework.SqlServer.xml
+D:\ThucTapPLP\QLChiTieuCaNhan - Copy\ShopManage\bin\Debug\DAL.pdb
+D:\ThucTapPLP\QLChiTieuCaNhan - Copy\ShopManage\obj\Debug\YourBudet.csproj.AssemblyReference.cache
+D:\ThucTapPLP\QLChiTieuCaNhan - Copy\ShopManage\obj\Debug\YourBudet.AddForm.resources
+D:\ThucTapPLP\QLChiTieuCaNhan - Copy\ShopManage\obj\Debug\YourBudet.App.UCTongQuan.resources
+D:\ThucTapPLP\QLChiTieuCaNhan - Copy\ShopManage\obj\Debug\YourBudet.DangKy.resources
+D:\ThucTapPLP\QLChiTieuCaNhan - Copy\ShopManage\obj\Debug\YourBudet.DangNhap.resources
+D:\ThucTapPLP\QLChiTieuCaNhan - Copy\ShopManage\obj\Debug\YourBudet.MainForm.resources
+D:\ThucTapPLP\QLChiTieuCaNhan - Copy\ShopManage\obj\Debug\YourBudet.Properties.Resources.resources
+D:\ThucTapPLP\QLChiTieuCaNhan - Copy\ShopManage\obj\Debug\YourBudet.csproj.GenerateResource.cache
+D:\ThucTapPLP\QLChiTieuCaNhan - Copy\ShopManage\obj\Debug\YourBudet.csproj.CoreCompileInputs.cache
+D:\ThucTapPLP\QLChiTieuCaNhan - Copy\ShopManage\obj\Debug\YourBudet.csproj.Up2Date
+D:\ThucTapPLP\QLChiTieuCaNhan - Copy\ShopManage\obj\Debug\YourBudet.exe
+D:\ThucTapPLP\QLChiTieuCaNhan - Copy\ShopManage\obj\Debug\YourBudet.pdb
+D:\ThucTapPLP\QLChiTieuCaNhan\ShopManage\obj\Debug\YourBudet.App.UCCacTaiKhoan.resources
+D:\ThucTapPLP\QLChiTieuCaNhan\ShopManage\obj\Debug\YourBudet.App.UCNguoiDung.resources
+D:\ThucTapPLP\QLChiTieuCaNhan\ShopManage\obj\Debug\YourBudet.App.UCThuNhap.resources
+D:\ThucTapPLP\QLChiTieuCaNhan\ShopManage\obj\Debug\YourBudet.App.UCChiTieu.resources
+D:\ThucTapPLP\QLChiTieuCaNhan\ShopManage\obj\Debug\YourBudet.App.UCCacKhoanVay.resources
+D:\ThucTapPLP\QLChiTieuCaNhan - Copy\ShopManage\obj\Debug\YourBudet.App.UCCacKhoanVay.resources
+D:\ThucTapPLP\QLChiTieuCaNhan - Copy\ShopManage\obj\Debug\YourBudet.App.UCCacTaiKhoan.resources
+D:\ThucTapPLP\QLChiTieuCaNhan - Copy\ShopManage\obj\Debug\YourBudet.App.UCChiTieu.resources
+D:\ThucTapPLP\QLChiTieuCaNhan - Copy\ShopManage\obj\Debug\YourBudet.App.UCNguoiDung.resources
+D:\ThucTapPLP\QLChiTieuCaNhan - Copy\ShopManage\obj\Debug\YourBudet.App.UCThuNhap.resources
+D:\ThucTapPLP\QLChiTieuCaNhan - Copy\ShopManage\obj\Debug\YourBudet.AddLoaiCTForm.resources
+D:\ThucTapPLP\QLChiTieuCaNhan\GUI\bin\Debug\YourBudet.exe.config
+D:\ThucTapPLP\QLChiTieuCaNhan\GUI\bin\Debug\YourBudet.exe
+D:\ThucTapPLP\QLChiTieuCaNhan\GUI\bin\Debug\YourBudet.pdb
+D:\ThucTapPLP\QLChiTieuCaNhan\GUI\bin\Debug\BLL.dll
+D:\ThucTapPLP\QLChiTieuCaNhan\GUI\bin\Debug\DTO.dll
+D:\ThucTapPLP\QLChiTieuCaNhan\GUI\bin\Debug\EntityFramework.dll
+D:\ThucTapPLP\QLChiTieuCaNhan\GUI\bin\Debug\EntityFramework.SqlServer.dll
+D:\ThucTapPLP\QLChiTieuCaNhan\GUI\bin\Debug\DAL.dll
+D:\ThucTapPLP\QLChiTieuCaNhan\GUI\bin\Debug\BLL.pdb
+D:\ThucTapPLP\QLChiTieuCaNhan\GUI\bin\Debug\DTO.pdb
+D:\ThucTapPLP\QLChiTieuCaNhan\GUI\bin\Debug\DTO.dll.config
+D:\ThucTapPLP\QLChiTieuCaNhan\GUI\bin\Debug\EntityFramework.xml
+D:\ThucTapPLP\QLChiTieuCaNhan\GUI\bin\Debug\EntityFramework.SqlServer.xml
+D:\ThucTapPLP\QLChiTieuCaNhan\GUI\bin\Debug\DAL.pdb
+D:\ThucTapPLP\QLChiTieuCaNhan\GUI\obj\Debug\YourBudet.csproj.AssemblyReference.cache
+D:\ThucTapPLP\QLChiTieuCaNhan\GUI\obj\Debug\YourBudet.AddForm.resources
+D:\ThucTapPLP\QLChiTieuCaNhan\GUI\obj\Debug\YourBudet.AddLoaiCTForm.resources
+D:\ThucTapPLP\QLChiTieuCaNhan\GUI\obj\Debug\YourBudet.App.UCCacKhoanVay.resources
+D:\ThucTapPLP\QLChiTieuCaNhan\GUI\obj\Debug\YourBudet.App.UCCacTaiKhoan.resources
+D:\ThucTapPLP\QLChiTieuCaNhan\GUI\obj\Debug\YourBudet.App.UCChiTieu.resources
+D:\ThucTapPLP\QLChiTieuCaNhan\GUI\obj\Debug\YourBudet.App.UCNguoiDung.resources
+D:\ThucTapPLP\QLChiTieuCaNhan\GUI\obj\Debug\YourBudet.App.UCThuNhap.resources
+D:\ThucTapPLP\QLChiTieuCaNhan\GUI\obj\Debug\YourBudet.App.UCTongQuan.resources
+D:\ThucTapPLP\QLChiTieuCaNhan\GUI\obj\Debug\YourBudet.DangKy.resources
+D:\ThucTapPLP\QLChiTieuCaNhan\GUI\obj\Debug\YourBudet.DangNhap.resources
+D:\ThucTapPLP\QLChiTieuCaNhan\GUI\obj\Debug\YourBudet.MainForm.resources
+D:\ThucTapPLP\QLChiTieuCaNhan\GUI\obj\Debug\YourBudet.Properties.Resources.resources
+D:\ThucTapPLP\QLChiTieuCaNhan\GUI\obj\Debug\YourBudet.csproj.GenerateResource.cache
+D:\ThucTapPLP\QLChiTieuCaNhan\GUI\obj\Debug\YourBudet.csproj.CoreCompileInputs.cache
+D:\ThucTapPLP\QLChiTieuCaNhan\GUI\obj\Debug\YourBudet.csproj.Up2Date
+D:\ThucTapPLP\QLChiTieuCaNhan\GUI\obj\Debug\YourBudet.exe
+D:\ThucTapPLP\QLChiTieuCaNhan\GUI\obj\Debug\YourBudet.pdb

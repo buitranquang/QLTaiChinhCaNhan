@@ -1,0 +1,301 @@
+D:\ThucTapPLP\QuanLyChiTieuCaNhan_PLP\ShopManage\bin\Debug\ShopManage.exe.config
+D:\ThucTapPLP\QuanLyChiTieuCaNhan_PLP\ShopManage\bin\Debug\ShopManage.exe
+D:\ThucTapPLP\QuanLyChiTieuCaNhan_PLP\ShopManage\bin\Debug\ShopManage.pdb
+D:\ThucTapPLP\QuanLyChiTieuCaNhan_PLP\ShopManage\bin\Debug\BLL.dll
+D:\ThucTapPLP\QuanLyChiTieuCaNhan_PLP\ShopManage\bin\Debug\DTO.dll
+D:\ThucTapPLP\QuanLyChiTieuCaNhan_PLP\ShopManage\bin\Debug\BLL.pdb
+D:\ThucTapPLP\QuanLyChiTieuCaNhan_PLP\ShopManage\bin\Debug\DTO.pdb
+D:\ThucTapPLP\QuanLyChiTieuCaNhan_PLP\ShopManage\obj\Debug\GUI.csproj.AssemblyReference.cache
+D:\ThucTapPLP\QuanLyChiTieuCaNhan_PLP\ShopManage\obj\Debug\ShopManage.App.UCDSHoaDon.resources
+D:\ThucTapPLP\QuanLyChiTieuCaNhan_PLP\ShopManage\obj\Debug\ShopManage.App.UCHoaDon.resources
+D:\ThucTapPLP\QuanLyChiTieuCaNhan_PLP\ShopManage\obj\Debug\ShopManage.App.UCKhachHang.resources
+D:\ThucTapPLP\QuanLyChiTieuCaNhan_PLP\ShopManage\obj\Debug\ShopManage.App.UCNhanVien.resources
+D:\ThucTapPLP\QuanLyChiTieuCaNhan_PLP\ShopManage\obj\Debug\ShopManage.App.UCSanPham.resources
+D:\ThucTapPLP\QuanLyChiTieuCaNhan_PLP\ShopManage\obj\Debug\ShopManage.App.UCThongKe.resources
+D:\ThucTapPLP\QuanLyChiTieuCaNhan_PLP\ShopManage\obj\Debug\ShopManage.DangNhap.resources
+D:\ThucTapPLP\QuanLyChiTieuCaNhan_PLP\ShopManage\obj\Debug\ShopManage.Properties.Resources.resources
+D:\ThucTapPLP\QuanLyChiTieuCaNhan_PLP\ShopManage\obj\Debug\GUI.csproj.GenerateResource.cache
+D:\ThucTapPLP\QuanLyChiTieuCaNhan_PLP\ShopManage\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+D:\ThucTapPLP\QuanLyChiTieuCaNhan_PLP\ShopManage\obj\Debug\GUI.csproj.Up2Date
+D:\ThucTapPLP\QuanLyChiTieuCaNhan_PLP\ShopManage\obj\Debug\ShopManage.exe
+D:\ThucTapPLP\QuanLyChiTieuCaNhan_PLP\ShopManage\obj\Debug\ShopManage.pdb
+D:\ThucTapPLP\QuanLyChiTieuCaNhan_PLP\ShopManage\bin\Debug\DAL.dll
+D:\ThucTapPLP\QuanLyChiTieuCaNhan_PLP\ShopManage\bin\Debug\DAL.pdb
+D:\ThucTapPLP\QuanLyChiTieuCaNhan_PLP\ShopManage\obj\Debug\ShopManage.MainForm.resources
+D:\ThucTapPLP\QLChiTieuCaNhan\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+D:\ThucTapPLP\QLChiTieuCaNhan\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+D:\ThucTapPLP\QLChiTieuCaNhan\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+D:\ThucTapPLP\QLChiTieuCaNhan\GUI\obj\Debug\GUI.csproj.Up2Date
+D:\ThucTapPLP\QLChiTieuCaNhan\GUI\obj\Debug\GUI.AddForm.resources
+D:\ThucTapPLP\QLChiTieuCaNhan\GUI\obj\Debug\GUI.AddLoaiCTForm.resources
+D:\ThucTapPLP\QLChiTieuCaNhan\GUI\obj\Debug\GUI.App.UCCacKhoanVay.resources
+D:\ThucTapPLP\QLChiTieuCaNhan\GUI\obj\Debug\GUI.App.UCCacTaiKhoan.resources
+D:\ThucTapPLP\QLChiTieuCaNhan\GUI\obj\Debug\GUI.App.UCChiTieu.resources
+D:\ThucTapPLP\QLChiTieuCaNhan\GUI\obj\Debug\GUI.App.UCNguoiDung.resources
+D:\ThucTapPLP\QLChiTieuCaNhan\GUI\obj\Debug\GUI.App.UCThuNhap.resources
+D:\ThucTapPLP\QLChiTieuCaNhan\GUI\obj\Debug\GUI.App.UCTongQuan.resources
+D:\ThucTapPLP\QLChiTieuCaNhan\GUI\obj\Debug\GUI.DangKy.resources
+D:\ThucTapPLP\QLChiTieuCaNhan\GUI\obj\Debug\GUI.DangNhap.resources
+D:\ThucTapPLP\QLChiTieuCaNhan\GUI\obj\Debug\GUI.MainForm.resources
+D:\ThucTapPLP\QLChiTieuCaNhan\GUI\obj\Debug\GUI.Properties.Resources.resources
+D:\ThucTapPLP\QLChiTieuCaNhan\GUI\obj\Debug\GUI.exe
+D:\ThucTapPLP\QLChiTieuCaNhan\GUI\obj\Debug\GUI.pdb
+D:\ThucTapPLP\QLChiTieuCaNhan\GUI\GUI.exe.config
+D:\ThucTapPLP\QLChiTieuCaNhan\GUI\GUI.exe
+D:\ThucTapPLP\QLChiTieuCaNhan\GUI\GUI.pdb
+D:\ThucTapPLP\QLChiTieuCaNhan\GUI\Aspose.Words.dll
+D:\ThucTapPLP\QLChiTieuCaNhan\GUI\BLL.dll
+D:\ThucTapPLP\QLChiTieuCaNhan\GUI\DTO.dll
+D:\ThucTapPLP\QLChiTieuCaNhan\GUI\EntityFramework.dll
+D:\ThucTapPLP\QLChiTieuCaNhan\GUI\EntityFramework.SqlServer.dll
+D:\ThucTapPLP\QLChiTieuCaNhan\GUI\DAL.dll
+D:\ThucTapPLP\QLChiTieuCaNhan\GUI\BLL.pdb
+D:\ThucTapPLP\QLChiTieuCaNhan\GUI\DTO.pdb
+D:\ThucTapPLP\QLChiTieuCaNhan\GUI\DTO.dll.config
+D:\ThucTapPLP\QLChiTieuCaNhan\GUI\EntityFramework.xml
+D:\ThucTapPLP\QLChiTieuCaNhan\GUI\EntityFramework.SqlServer.xml
+D:\ThucTapPLP\QLChiTieuCaNhan\GUI\DAL.pdb
+D:\ThucTapPLP\QLChiTieuCaNhan\GUI\obj\Debug\GUI.MiniForm.AddViForm.resources
+D:\ThucTapPLP\QLChiTieuCaNhan - Copy\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+D:\ThucTapPLP\QLChiTieuCaNhan - Copy\GUI\obj\Debug\GUI.AddForm.resources
+D:\ThucTapPLP\QLChiTieuCaNhan - Copy\GUI\obj\Debug\GUI.AddLoaiCTForm.resources
+D:\ThucTapPLP\QLChiTieuCaNhan - Copy\GUI\obj\Debug\GUI.App.UCCacKhoanVay.resources
+D:\ThucTapPLP\QLChiTieuCaNhan - Copy\GUI\obj\Debug\GUI.App.UCCacTaiKhoan.resources
+D:\ThucTapPLP\QLChiTieuCaNhan - Copy\GUI\obj\Debug\GUI.App.UCChiTieu.resources
+D:\ThucTapPLP\QLChiTieuCaNhan - Copy\GUI\obj\Debug\GUI.App.UCNguoiDung.resources
+D:\ThucTapPLP\QLChiTieuCaNhan - Copy\GUI\obj\Debug\GUI.App.UCThuNhap.resources
+D:\ThucTapPLP\QLChiTieuCaNhan - Copy\GUI\obj\Debug\GUI.App.UCTongQuan.resources
+D:\ThucTapPLP\QLChiTieuCaNhan - Copy\GUI\obj\Debug\GUI.DangKy.resources
+D:\ThucTapPLP\QLChiTieuCaNhan - Copy\GUI\obj\Debug\GUI.DangNhap.resources
+D:\ThucTapPLP\QLChiTieuCaNhan - Copy\GUI\obj\Debug\GUI.MainForm.resources
+D:\ThucTapPLP\QLChiTieuCaNhan - Copy\GUI\obj\Debug\GUI.MiniForm.AddViForm.resources
+D:\ThucTapPLP\QLChiTieuCaNhan - Copy\GUI\obj\Debug\GUI.Properties.Resources.resources
+D:\ThucTapPLP\QLChiTieuCaNhan - Copy\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+D:\ThucTapPLP\QLChiTieuCaNhan - Copy\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+D:\ThucTapPLP\QLChiTieuCaNhan - Copy\GUI\obj\Debug\GUI.csproj.Up2Date
+D:\ThucTapPLP\QLChiTieuCaNhan - Copy\GUI\GUI.exe.config
+D:\ThucTapPLP\QLChiTieuCaNhan - Copy\GUI\obj\Debug\GUI.exe
+D:\ThucTapPLP\QLChiTieuCaNhan - Copy\GUI\obj\Debug\GUI.pdb
+D:\ThucTapPLP\QLChiTieuCaNhan - Copy\GUI\GUI.exe
+D:\ThucTapPLP\QLChiTieuCaNhan - Copy\GUI\GUI.pdb
+D:\ThucTapPLP\QLChiTieuCaNhan - Copy\GUI\Aspose.Words.dll
+D:\ThucTapPLP\QLChiTieuCaNhan - Copy\GUI\BLL.dll
+D:\ThucTapPLP\QLChiTieuCaNhan - Copy\GUI\DTO.dll
+D:\ThucTapPLP\QLChiTieuCaNhan - Copy\GUI\EntityFramework.dll
+D:\ThucTapPLP\QLChiTieuCaNhan - Copy\GUI\EntityFramework.SqlServer.dll
+D:\ThucTapPLP\QLChiTieuCaNhan - Copy\GUI\DAL.dll
+D:\ThucTapPLP\QLChiTieuCaNhan - Copy\GUI\BLL.pdb
+D:\ThucTapPLP\QLChiTieuCaNhan - Copy\GUI\DTO.pdb
+D:\ThucTapPLP\QLChiTieuCaNhan - Copy\GUI\DTO.dll.config
+D:\ThucTapPLP\QLChiTieuCaNhan - Copy\GUI\EntityFramework.xml
+D:\ThucTapPLP\QLChiTieuCaNhan - Copy\GUI\EntityFramework.SqlServer.xml
+D:\ThucTapPLP\QLChiTieuCaNhan - Copy\GUI\DAL.pdb
+E:\QLChiTieuCaNhan\GUI\GUI.exe.config
+E:\QLChiTieuCaNhan\GUI\obj\Debug\GUI.exe
+E:\QLChiTieuCaNhan\GUI\obj\Debug\GUI.pdb
+E:\QLChiTieuCaNhan\GUI\obj\Debug\GUI.csprojResolveAssemblyReference.cache
+E:\QLChiTieuCaNhan\GUI\obj\Debug\GUI.AddForm.resources
+E:\QLChiTieuCaNhan\GUI\obj\Debug\GUI.AddLoaiCTForm.resources
+E:\QLChiTieuCaNhan\GUI\obj\Debug\GUI.App.UCCacKhoanVay.resources
+E:\QLChiTieuCaNhan\GUI\obj\Debug\GUI.App.UCCacTaiKhoan.resources
+E:\QLChiTieuCaNhan\GUI\obj\Debug\GUI.App.UCChiTieu.resources
+E:\QLChiTieuCaNhan\GUI\obj\Debug\GUI.App.UCNguoiDung.resources
+E:\QLChiTieuCaNhan\GUI\obj\Debug\GUI.App.UCThuNhap.resources
+E:\QLChiTieuCaNhan\GUI\obj\Debug\GUI.App.UCTongQuan.resources
+E:\QLChiTieuCaNhan\GUI\obj\Debug\GUI.DangKy.resources
+E:\QLChiTieuCaNhan\GUI\obj\Debug\GUI.DangNhap.resources
+E:\QLChiTieuCaNhan\GUI\obj\Debug\GUI.MainForm.resources
+E:\QLChiTieuCaNhan\GUI\obj\Debug\GUI.MiniForm.AddViForm.resources
+E:\QLChiTieuCaNhan\GUI\obj\Debug\GUI.Properties.Resources.resources
+E:\QLChiTieuCaNhan\GUI\obj\Debug\GUI.csproj.GenerateResource.Cache
+E:\QLChiTieuCaNhan\GUI\GUI.exe
+E:\QLChiTieuCaNhan\GUI\GUI.pdb
+E:\QLChiTieuCaNhan\GUI\Aspose.Words.dll
+E:\QLChiTieuCaNhan\GUI\BLL.dll
+E:\QLChiTieuCaNhan\GUI\DTO.dll
+E:\QLChiTieuCaNhan\GUI\EntityFramework.dll
+E:\QLChiTieuCaNhan\GUI\EntityFramework.SqlServer.dll
+E:\QLChiTieuCaNhan\GUI\DAL.dll
+E:\QLChiTieuCaNhan\GUI\BLL.pdb
+E:\QLChiTieuCaNhan\GUI\DTO.pdb
+E:\QLChiTieuCaNhan\GUI\EntityFramework.xml
+E:\QLChiTieuCaNhan\GUI\EntityFramework.SqlServer.xml
+E:\QLChiTieuCaNhan\GUI\DAL.pdb
+C:\Users\PC-Quang\Downloads\QLChiTieuCaNhan\QLChiTieuCaNhan\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+C:\Users\PC-Quang\Downloads\QLChiTieuCaNhan\QLChiTieuCaNhan\GUI\obj\Debug\GUI.App.UCCacKhoanVay.resources
+C:\Users\PC-Quang\Downloads\QLChiTieuCaNhan\QLChiTieuCaNhan\GUI\obj\Debug\GUI.App.UCCacTaiKhoan.resources
+C:\Users\PC-Quang\Downloads\QLChiTieuCaNhan\QLChiTieuCaNhan\GUI\obj\Debug\GUI.App.UCChiTieu.resources
+C:\Users\PC-Quang\Downloads\QLChiTieuCaNhan\QLChiTieuCaNhan\GUI\obj\Debug\GUI.App.UCNguoiDung.resources
+C:\Users\PC-Quang\Downloads\QLChiTieuCaNhan\QLChiTieuCaNhan\GUI\obj\Debug\GUI.App.UCThuNhap.resources
+C:\Users\PC-Quang\Downloads\QLChiTieuCaNhan\QLChiTieuCaNhan\GUI\obj\Debug\GUI.App.UCTongQuan.resources
+C:\Users\PC-Quang\Downloads\QLChiTieuCaNhan\QLChiTieuCaNhan\GUI\obj\Debug\GUI.DangKy.resources
+C:\Users\PC-Quang\Downloads\QLChiTieuCaNhan\QLChiTieuCaNhan\GUI\obj\Debug\GUI.DangNhap.resources
+C:\Users\PC-Quang\Downloads\QLChiTieuCaNhan\QLChiTieuCaNhan\GUI\obj\Debug\GUI.MainForm.resources
+C:\Users\PC-Quang\Downloads\QLChiTieuCaNhan\QLChiTieuCaNhan\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\Users\PC-Quang\Downloads\QLChiTieuCaNhan\QLChiTieuCaNhan\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+C:\Users\PC-Quang\Downloads\QLChiTieuCaNhan\QLChiTieuCaNhan\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+C:\Users\PC-Quang\Downloads\QLChiTieuCaNhan\QLChiTieuCaNhan\GUI\obj\Debug\GUI.csproj.Up2Date
+C:\Users\PC-Quang\Downloads\QLChiTieuCaNhan\QLChiTieuCaNhan\GUI\GUI.exe.config
+C:\Users\PC-Quang\Downloads\QLChiTieuCaNhan\QLChiTieuCaNhan\GUI\obj\Debug\GUI.exe
+C:\Users\PC-Quang\Downloads\QLChiTieuCaNhan\QLChiTieuCaNhan\GUI\obj\Debug\GUI.pdb
+C:\Users\PC-Quang\Downloads\QLChiTieuCaNhan\QLChiTieuCaNhan\GUI\GUI.exe
+C:\Users\PC-Quang\Downloads\QLChiTieuCaNhan\QLChiTieuCaNhan\GUI\GUI.pdb
+C:\Users\PC-Quang\Downloads\QLChiTieuCaNhan\QLChiTieuCaNhan\GUI\Aspose.Words.dll
+C:\Users\PC-Quang\Downloads\QLChiTieuCaNhan\QLChiTieuCaNhan\GUI\BLL.dll
+C:\Users\PC-Quang\Downloads\QLChiTieuCaNhan\QLChiTieuCaNhan\GUI\DTO.dll
+C:\Users\PC-Quang\Downloads\QLChiTieuCaNhan\QLChiTieuCaNhan\GUI\EntityFramework.dll
+C:\Users\PC-Quang\Downloads\QLChiTieuCaNhan\QLChiTieuCaNhan\GUI\EntityFramework.SqlServer.dll
+C:\Users\PC-Quang\Downloads\QLChiTieuCaNhan\QLChiTieuCaNhan\GUI\DAL.dll
+C:\Users\PC-Quang\Downloads\QLChiTieuCaNhan\QLChiTieuCaNhan\GUI\BLL.pdb
+C:\Users\PC-Quang\Downloads\QLChiTieuCaNhan\QLChiTieuCaNhan\GUI\DTO.pdb
+C:\Users\PC-Quang\Downloads\QLChiTieuCaNhan\QLChiTieuCaNhan\GUI\DTO.dll.config
+C:\Users\PC-Quang\Downloads\QLChiTieuCaNhan\QLChiTieuCaNhan\GUI\EntityFramework.xml
+C:\Users\PC-Quang\Downloads\QLChiTieuCaNhan\QLChiTieuCaNhan\GUI\EntityFramework.SqlServer.xml
+C:\Users\PC-Quang\Downloads\QLChiTieuCaNhan\QLChiTieuCaNhan\GUI\DAL.pdb
+C:\Users\PC-Quang\Downloads\QLChiTieuCaNhan\QLChiTieuCaNhan\GUI\obj\Debug\GUI.MiniForm.AddChiTieu.resources
+C:\Users\PC-Quang\Downloads\QLChiTieuCaNhan\QLChiTieuCaNhan\GUI\obj\Debug\GUI.MiniForm.AddLoaiCT.resources
+C:\Users\PC-Quang\Downloads\QLChiTieuCaNhan\QLChiTieuCaNhan\GUI\obj\Debug\GUI.MiniForm.AddVi.resources
+D:\ThucTapPLP\BuiTranQuang_ver1\QLTaiChinh_App\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+D:\ThucTapPLP\BuiTranQuang_ver1\QLTaiChinh_App\GUI\obj\Debug\GUI.App.UCCacKhoanVay.resources
+D:\ThucTapPLP\BuiTranQuang_ver1\QLTaiChinh_App\GUI\obj\Debug\GUI.App.UCCacTaiKhoan.resources
+D:\ThucTapPLP\BuiTranQuang_ver1\QLTaiChinh_App\GUI\obj\Debug\GUI.App.UCChiTieu.resources
+D:\ThucTapPLP\BuiTranQuang_ver1\QLTaiChinh_App\GUI\obj\Debug\GUI.App.UCNguoiDung.resources
+D:\ThucTapPLP\BuiTranQuang_ver1\QLTaiChinh_App\GUI\obj\Debug\GUI.App.UCThuNhap.resources
+D:\ThucTapPLP\BuiTranQuang_ver1\QLTaiChinh_App\GUI\obj\Debug\GUI.App.UCTongQuan.resources
+D:\ThucTapPLP\BuiTranQuang_ver1\QLTaiChinh_App\GUI\obj\Debug\GUI.DangKy.resources
+D:\ThucTapPLP\BuiTranQuang_ver1\QLTaiChinh_App\GUI\obj\Debug\GUI.DangNhap.resources
+D:\ThucTapPLP\BuiTranQuang_ver1\QLTaiChinh_App\GUI\obj\Debug\GUI.MainForm.resources
+D:\ThucTapPLP\BuiTranQuang_ver1\QLTaiChinh_App\GUI\obj\Debug\GUI.MiniForm.AddChiTieu.resources
+D:\ThucTapPLP\BuiTranQuang_ver1\QLTaiChinh_App\GUI\obj\Debug\GUI.MiniForm.AddLoaiCT.resources
+D:\ThucTapPLP\BuiTranQuang_ver1\QLTaiChinh_App\GUI\obj\Debug\GUI.MiniForm.AddVi.resources
+D:\ThucTapPLP\BuiTranQuang_ver1\QLTaiChinh_App\GUI\obj\Debug\GUI.Properties.Resources.resources
+D:\ThucTapPLP\BuiTranQuang_ver1\QLTaiChinh_App\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+D:\ThucTapPLP\BuiTranQuang_ver1\QLTaiChinh_App\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+D:\ThucTapPLP\BuiTranQuang_ver1\QLTaiChinh_App\GUI\obj\Debug\GUI.csproj.Up2Date
+D:\ThucTapPLP\BuiTranQuang_ver1\QLTaiChinh_App\GUI\GUI.exe.config
+D:\ThucTapPLP\BuiTranQuang_ver1\QLTaiChinh_App\GUI\obj\Debug\GUI.exe
+D:\ThucTapPLP\BuiTranQuang_ver1\QLTaiChinh_App\GUI\obj\Debug\GUI.pdb
+D:\ThucTapPLP\BuiTranQuang_ver1\QLTaiChinh_App\GUI\GUI.exe
+D:\ThucTapPLP\BuiTranQuang_ver1\QLTaiChinh_App\GUI\GUI.pdb
+D:\ThucTapPLP\BuiTranQuang_ver1\QLTaiChinh_App\GUI\Aspose.Words.dll
+D:\ThucTapPLP\BuiTranQuang_ver1\QLTaiChinh_App\GUI\BLL.dll
+D:\ThucTapPLP\BuiTranQuang_ver1\QLTaiChinh_App\GUI\DTO.dll
+D:\ThucTapPLP\BuiTranQuang_ver1\QLTaiChinh_App\GUI\EntityFramework.dll
+D:\ThucTapPLP\BuiTranQuang_ver1\QLTaiChinh_App\GUI\EntityFramework.SqlServer.dll
+D:\ThucTapPLP\BuiTranQuang_ver1\QLTaiChinh_App\GUI\DAL.dll
+D:\ThucTapPLP\BuiTranQuang_ver1\QLTaiChinh_App\GUI\BLL.pdb
+D:\ThucTapPLP\BuiTranQuang_ver1\QLTaiChinh_App\GUI\DTO.pdb
+D:\ThucTapPLP\BuiTranQuang_ver1\QLTaiChinh_App\GUI\DTO.dll.config
+D:\ThucTapPLP\BuiTranQuang_ver1\QLTaiChinh_App\GUI\EntityFramework.xml
+D:\ThucTapPLP\BuiTranQuang_ver1\QLTaiChinh_App\GUI\EntityFramework.SqlServer.xml
+D:\ThucTapPLP\BuiTranQuang_ver1\QLTaiChinh_App\GUI\DAL.pdb
+D:\ThucTapPLP\BuiTranQuang_ver1\QLTaiChinh_App\GUI\obj\Debug\GUI.MiniForm.UpdateMatKhau.resources
+D:\ThucTapPLP\BuiTranQuang\QLTaiChinh_App\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+D:\ThucTapPLP\BuiTranQuang\QLTaiChinh_App\GUI\obj\Debug\GUI.App.UCCacKhoanVay.resources
+D:\ThucTapPLP\BuiTranQuang\QLTaiChinh_App\GUI\obj\Debug\GUI.App.UCCacTaiKhoan.resources
+D:\ThucTapPLP\BuiTranQuang\QLTaiChinh_App\GUI\obj\Debug\GUI.App.UCChiTieu.resources
+D:\ThucTapPLP\BuiTranQuang\QLTaiChinh_App\GUI\obj\Debug\GUI.App.UCNguoiDung.resources
+D:\ThucTapPLP\BuiTranQuang\QLTaiChinh_App\GUI\obj\Debug\GUI.App.UCThuNhap.resources
+D:\ThucTapPLP\BuiTranQuang\QLTaiChinh_App\GUI\obj\Debug\GUI.App.UCTongQuan.resources
+D:\ThucTapPLP\BuiTranQuang\QLTaiChinh_App\GUI\obj\Debug\GUI.DangKy.resources
+D:\ThucTapPLP\BuiTranQuang\QLTaiChinh_App\GUI\obj\Debug\GUI.DangNhap.resources
+D:\ThucTapPLP\BuiTranQuang\QLTaiChinh_App\GUI\obj\Debug\GUI.MainForm.resources
+D:\ThucTapPLP\BuiTranQuang\QLTaiChinh_App\GUI\obj\Debug\GUI.MiniForm.AddChiTieu.resources
+D:\ThucTapPLP\BuiTranQuang\QLTaiChinh_App\GUI\obj\Debug\GUI.MiniForm.AddLoaiCT.resources
+D:\ThucTapPLP\BuiTranQuang\QLTaiChinh_App\GUI\obj\Debug\GUI.MiniForm.AddVi.resources
+D:\ThucTapPLP\BuiTranQuang\QLTaiChinh_App\GUI\obj\Debug\GUI.MiniForm.UpdateMatKhau.resources
+D:\ThucTapPLP\BuiTranQuang\QLTaiChinh_App\GUI\obj\Debug\GUI.Properties.Resources.resources
+D:\ThucTapPLP\BuiTranQuang\QLTaiChinh_App\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+D:\ThucTapPLP\BuiTranQuang\QLTaiChinh_App\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+D:\ThucTapPLP\BuiTranQuang\QLTaiChinh_App\GUI\obj\Debug\GUI.csproj.Up2Date
+D:\ThucTapPLP\BuiTranQuang\QLTaiChinh_App\GUI\GUI.exe.config
+D:\ThucTapPLP\BuiTranQuang\QLTaiChinh_App\GUI\obj\Debug\GUI.exe
+D:\ThucTapPLP\BuiTranQuang\QLTaiChinh_App\GUI\obj\Debug\GUI.pdb
+D:\ThucTapPLP\BuiTranQuang\QLTaiChinh_App\GUI\GUI.exe
+D:\ThucTapPLP\BuiTranQuang\QLTaiChinh_App\GUI\GUI.pdb
+D:\ThucTapPLP\BuiTranQuang\QLTaiChinh_App\GUI\Aspose.Words.dll
+D:\ThucTapPLP\BuiTranQuang\QLTaiChinh_App\GUI\BLL.dll
+D:\ThucTapPLP\BuiTranQuang\QLTaiChinh_App\GUI\DTO.dll
+D:\ThucTapPLP\BuiTranQuang\QLTaiChinh_App\GUI\EntityFramework.dll
+D:\ThucTapPLP\BuiTranQuang\QLTaiChinh_App\GUI\EntityFramework.SqlServer.dll
+D:\ThucTapPLP\BuiTranQuang\QLTaiChinh_App\GUI\DAL.dll
+D:\ThucTapPLP\BuiTranQuang\QLTaiChinh_App\GUI\BLL.pdb
+D:\ThucTapPLP\BuiTranQuang\QLTaiChinh_App\GUI\DTO.pdb
+D:\ThucTapPLP\BuiTranQuang\QLTaiChinh_App\GUI\DTO.dll.config
+D:\ThucTapPLP\BuiTranQuang\QLTaiChinh_App\GUI\EntityFramework.xml
+D:\ThucTapPLP\BuiTranQuang\QLTaiChinh_App\GUI\EntityFramework.SqlServer.xml
+D:\ThucTapPLP\BuiTranQuang\QLTaiChinh_App\GUI\DAL.pdb
+D:\ThucTapPLP\BuiTranQuang\QLTaiChinh_App\GUI\obj\Debug\GUI.MiniForm.AddKhoanVay.resources
+C:\Users\PC-Quang\OneDrive\Desktop\201592-BuiTranQuang-QLtaiChinhCaNhan\201592-BuiTranQuang-QLtaiChinhCaNhan\QLTaiChinh_App\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+C:\Users\PC-Quang\OneDrive\Desktop\201592-BuiTranQuang-QLtaiChinhCaNhan\201592-BuiTranQuang-QLtaiChinhCaNhan\QLTaiChinh_App\GUI\obj\Debug\GUI.App.UCCacKhoanVay.resources
+C:\Users\PC-Quang\OneDrive\Desktop\201592-BuiTranQuang-QLtaiChinhCaNhan\201592-BuiTranQuang-QLtaiChinhCaNhan\QLTaiChinh_App\GUI\obj\Debug\GUI.App.UCCacTaiKhoan.resources
+C:\Users\PC-Quang\OneDrive\Desktop\201592-BuiTranQuang-QLtaiChinhCaNhan\201592-BuiTranQuang-QLtaiChinhCaNhan\QLTaiChinh_App\GUI\obj\Debug\GUI.App.UCChiTieu.resources
+C:\Users\PC-Quang\OneDrive\Desktop\201592-BuiTranQuang-QLtaiChinhCaNhan\201592-BuiTranQuang-QLtaiChinhCaNhan\QLTaiChinh_App\GUI\obj\Debug\GUI.App.UCNguoiDung.resources
+C:\Users\PC-Quang\OneDrive\Desktop\201592-BuiTranQuang-QLtaiChinhCaNhan\201592-BuiTranQuang-QLtaiChinhCaNhan\QLTaiChinh_App\GUI\obj\Debug\GUI.App.UCThuNhap.resources
+C:\Users\PC-Quang\OneDrive\Desktop\201592-BuiTranQuang-QLtaiChinhCaNhan\201592-BuiTranQuang-QLtaiChinhCaNhan\QLTaiChinh_App\GUI\obj\Debug\GUI.App.UCTongQuan.resources
+C:\Users\PC-Quang\OneDrive\Desktop\201592-BuiTranQuang-QLtaiChinhCaNhan\201592-BuiTranQuang-QLtaiChinhCaNhan\QLTaiChinh_App\GUI\obj\Debug\GUI.DangKy.resources
+C:\Users\PC-Quang\OneDrive\Desktop\201592-BuiTranQuang-QLtaiChinhCaNhan\201592-BuiTranQuang-QLtaiChinhCaNhan\QLTaiChinh_App\GUI\obj\Debug\GUI.DangNhap.resources
+C:\Users\PC-Quang\OneDrive\Desktop\201592-BuiTranQuang-QLtaiChinhCaNhan\201592-BuiTranQuang-QLtaiChinhCaNhan\QLTaiChinh_App\GUI\obj\Debug\GUI.MainForm.resources
+C:\Users\PC-Quang\OneDrive\Desktop\201592-BuiTranQuang-QLtaiChinhCaNhan\201592-BuiTranQuang-QLtaiChinhCaNhan\QLTaiChinh_App\GUI\obj\Debug\GUI.MiniForm.AddChiTieu.resources
+C:\Users\PC-Quang\OneDrive\Desktop\201592-BuiTranQuang-QLtaiChinhCaNhan\201592-BuiTranQuang-QLtaiChinhCaNhan\QLTaiChinh_App\GUI\obj\Debug\GUI.MiniForm.AddKhoanVay.resources
+C:\Users\PC-Quang\OneDrive\Desktop\201592-BuiTranQuang-QLtaiChinhCaNhan\201592-BuiTranQuang-QLtaiChinhCaNhan\QLTaiChinh_App\GUI\obj\Debug\GUI.MiniForm.AddLoaiCT.resources
+C:\Users\PC-Quang\OneDrive\Desktop\201592-BuiTranQuang-QLtaiChinhCaNhan\201592-BuiTranQuang-QLtaiChinhCaNhan\QLTaiChinh_App\GUI\obj\Debug\GUI.MiniForm.AddVi.resources
+C:\Users\PC-Quang\OneDrive\Desktop\201592-BuiTranQuang-QLtaiChinhCaNhan\201592-BuiTranQuang-QLtaiChinhCaNhan\QLTaiChinh_App\GUI\obj\Debug\GUI.MiniForm.UpdateMatKhau.resources
+C:\Users\PC-Quang\OneDrive\Desktop\201592-BuiTranQuang-QLtaiChinhCaNhan\201592-BuiTranQuang-QLtaiChinhCaNhan\QLTaiChinh_App\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\Users\PC-Quang\OneDrive\Desktop\201592-BuiTranQuang-QLtaiChinhCaNhan\201592-BuiTranQuang-QLtaiChinhCaNhan\QLTaiChinh_App\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+C:\Users\PC-Quang\OneDrive\Desktop\201592-BuiTranQuang-QLtaiChinhCaNhan\201592-BuiTranQuang-QLtaiChinhCaNhan\QLTaiChinh_App\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+C:\Users\PC-Quang\OneDrive\Desktop\201592-BuiTranQuang-QLtaiChinhCaNhan\201592-BuiTranQuang-QLtaiChinhCaNhan\QLTaiChinh_App\GUI\obj\Debug\GUI.csproj.Up2Date
+C:\Users\PC-Quang\OneDrive\Desktop\201592-BuiTranQuang-QLtaiChinhCaNhan\201592-BuiTranQuang-QLtaiChinhCaNhan\QLTaiChinh_App\GUI\GUI.exe.config
+C:\Users\PC-Quang\OneDrive\Desktop\201592-BuiTranQuang-QLtaiChinhCaNhan\201592-BuiTranQuang-QLtaiChinhCaNhan\QLTaiChinh_App\GUI\obj\Debug\GUI.exe
+C:\Users\PC-Quang\OneDrive\Desktop\201592-BuiTranQuang-QLtaiChinhCaNhan\201592-BuiTranQuang-QLtaiChinhCaNhan\QLTaiChinh_App\GUI\obj\Debug\GUI.pdb
+C:\Users\PC-Quang\OneDrive\Desktop\201592-BuiTranQuang-QLtaiChinhCaNhan\201592-BuiTranQuang-QLtaiChinhCaNhan\QLTaiChinh_App\GUI\GUI.exe
+C:\Users\PC-Quang\OneDrive\Desktop\201592-BuiTranQuang-QLtaiChinhCaNhan\201592-BuiTranQuang-QLtaiChinhCaNhan\QLTaiChinh_App\GUI\GUI.pdb
+C:\Users\PC-Quang\OneDrive\Desktop\201592-BuiTranQuang-QLtaiChinhCaNhan\201592-BuiTranQuang-QLtaiChinhCaNhan\QLTaiChinh_App\GUI\Aspose.Words.dll
+C:\Users\PC-Quang\OneDrive\Desktop\201592-BuiTranQuang-QLtaiChinhCaNhan\201592-BuiTranQuang-QLtaiChinhCaNhan\QLTaiChinh_App\GUI\BLL.dll
+C:\Users\PC-Quang\OneDrive\Desktop\201592-BuiTranQuang-QLtaiChinhCaNhan\201592-BuiTranQuang-QLtaiChinhCaNhan\QLTaiChinh_App\GUI\DTO.dll
+C:\Users\PC-Quang\OneDrive\Desktop\201592-BuiTranQuang-QLtaiChinhCaNhan\201592-BuiTranQuang-QLtaiChinhCaNhan\QLTaiChinh_App\GUI\EntityFramework.dll
+C:\Users\PC-Quang\OneDrive\Desktop\201592-BuiTranQuang-QLtaiChinhCaNhan\201592-BuiTranQuang-QLtaiChinhCaNhan\QLTaiChinh_App\GUI\EntityFramework.SqlServer.dll
+C:\Users\PC-Quang\OneDrive\Desktop\201592-BuiTranQuang-QLtaiChinhCaNhan\201592-BuiTranQuang-QLtaiChinhCaNhan\QLTaiChinh_App\GUI\DAL.dll
+C:\Users\PC-Quang\OneDrive\Desktop\201592-BuiTranQuang-QLtaiChinhCaNhan\201592-BuiTranQuang-QLtaiChinhCaNhan\QLTaiChinh_App\GUI\BLL.pdb
+C:\Users\PC-Quang\OneDrive\Desktop\201592-BuiTranQuang-QLtaiChinhCaNhan\201592-BuiTranQuang-QLtaiChinhCaNhan\QLTaiChinh_App\GUI\DTO.pdb
+C:\Users\PC-Quang\OneDrive\Desktop\201592-BuiTranQuang-QLtaiChinhCaNhan\201592-BuiTranQuang-QLtaiChinhCaNhan\QLTaiChinh_App\GUI\DTO.dll.config
+C:\Users\PC-Quang\OneDrive\Desktop\201592-BuiTranQuang-QLtaiChinhCaNhan\201592-BuiTranQuang-QLtaiChinhCaNhan\QLTaiChinh_App\GUI\EntityFramework.xml
+C:\Users\PC-Quang\OneDrive\Desktop\201592-BuiTranQuang-QLtaiChinhCaNhan\201592-BuiTranQuang-QLtaiChinhCaNhan\QLTaiChinh_App\GUI\EntityFramework.SqlServer.xml
+C:\Users\PC-Quang\OneDrive\Desktop\201592-BuiTranQuang-QLtaiChinhCaNhan\201592-BuiTranQuang-QLtaiChinhCaNhan\QLTaiChinh_App\GUI\DAL.pdb
+C:\Users\PC-Quang\OneDrive\Desktop\201592-BuiTranQuang-QLtaiChinhCaNhan\201592-BuiTranQuang-QLTaiChinhCaNhan\Demo\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+C:\Users\PC-Quang\OneDrive\Desktop\201592-BuiTranQuang-QLtaiChinhCaNhan\201592-BuiTranQuang-QLTaiChinhCaNhan\Demo\GUI\obj\Debug\GUI.App.UCCacKhoanVay.resources
+C:\Users\PC-Quang\OneDrive\Desktop\201592-BuiTranQuang-QLtaiChinhCaNhan\201592-BuiTranQuang-QLTaiChinhCaNhan\Demo\GUI\obj\Debug\GUI.App.UCCacTaiKhoan.resources
+C:\Users\PC-Quang\OneDrive\Desktop\201592-BuiTranQuang-QLtaiChinhCaNhan\201592-BuiTranQuang-QLTaiChinhCaNhan\Demo\GUI\obj\Debug\GUI.App.UCChiTieu.resources
+C:\Users\PC-Quang\OneDrive\Desktop\201592-BuiTranQuang-QLtaiChinhCaNhan\201592-BuiTranQuang-QLTaiChinhCaNhan\Demo\GUI\obj\Debug\GUI.App.UCNguoiDung.resources
+C:\Users\PC-Quang\OneDrive\Desktop\201592-BuiTranQuang-QLtaiChinhCaNhan\201592-BuiTranQuang-QLTaiChinhCaNhan\Demo\GUI\obj\Debug\GUI.App.UCThuNhap.resources
+C:\Users\PC-Quang\OneDrive\Desktop\201592-BuiTranQuang-QLtaiChinhCaNhan\201592-BuiTranQuang-QLTaiChinhCaNhan\Demo\GUI\obj\Debug\GUI.App.UCTongQuan.resources
+C:\Users\PC-Quang\OneDrive\Desktop\201592-BuiTranQuang-QLtaiChinhCaNhan\201592-BuiTranQuang-QLTaiChinhCaNhan\Demo\GUI\obj\Debug\GUI.DangKy.resources
+C:\Users\PC-Quang\OneDrive\Desktop\201592-BuiTranQuang-QLtaiChinhCaNhan\201592-BuiTranQuang-QLTaiChinhCaNhan\Demo\GUI\obj\Debug\GUI.DangNhap.resources
+C:\Users\PC-Quang\OneDrive\Desktop\201592-BuiTranQuang-QLtaiChinhCaNhan\201592-BuiTranQuang-QLTaiChinhCaNhan\Demo\GUI\obj\Debug\GUI.MainForm.resources
+C:\Users\PC-Quang\OneDrive\Desktop\201592-BuiTranQuang-QLtaiChinhCaNhan\201592-BuiTranQuang-QLTaiChinhCaNhan\Demo\GUI\obj\Debug\GUI.MiniForm.AddChiTieu.resources
+C:\Users\PC-Quang\OneDrive\Desktop\201592-BuiTranQuang-QLtaiChinhCaNhan\201592-BuiTranQuang-QLTaiChinhCaNhan\Demo\GUI\obj\Debug\GUI.MiniForm.AddKhoanVay.resources
+C:\Users\PC-Quang\OneDrive\Desktop\201592-BuiTranQuang-QLtaiChinhCaNhan\201592-BuiTranQuang-QLTaiChinhCaNhan\Demo\GUI\obj\Debug\GUI.MiniForm.AddLoaiCT.resources
+C:\Users\PC-Quang\OneDrive\Desktop\201592-BuiTranQuang-QLtaiChinhCaNhan\201592-BuiTranQuang-QLTaiChinhCaNhan\Demo\GUI\obj\Debug\GUI.MiniForm.AddVi.resources
+C:\Users\PC-Quang\OneDrive\Desktop\201592-BuiTranQuang-QLtaiChinhCaNhan\201592-BuiTranQuang-QLTaiChinhCaNhan\Demo\GUI\obj\Debug\GUI.MiniForm.UpdateMatKhau.resources
+C:\Users\PC-Quang\OneDrive\Desktop\201592-BuiTranQuang-QLtaiChinhCaNhan\201592-BuiTranQuang-QLTaiChinhCaNhan\Demo\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\Users\PC-Quang\OneDrive\Desktop\201592-BuiTranQuang-QLtaiChinhCaNhan\201592-BuiTranQuang-QLTaiChinhCaNhan\Demo\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+C:\Users\PC-Quang\OneDrive\Desktop\201592-BuiTranQuang-QLtaiChinhCaNhan\201592-BuiTranQuang-QLTaiChinhCaNhan\Demo\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+C:\Users\PC-Quang\OneDrive\Desktop\201592-BuiTranQuang-QLtaiChinhCaNhan\201592-BuiTranQuang-QLTaiChinhCaNhan\Demo\GUI\obj\Debug\GUI.csproj.Up2Date
+C:\Users\PC-Quang\OneDrive\Desktop\201592-BuiTranQuang-QLtaiChinhCaNhan\201592-BuiTranQuang-QLTaiChinhCaNhan\Demo\GUI\GUI.exe.config
+C:\Users\PC-Quang\OneDrive\Desktop\201592-BuiTranQuang-QLtaiChinhCaNhan\201592-BuiTranQuang-QLTaiChinhCaNhan\Demo\GUI\obj\Debug\GUI.exe
+C:\Users\PC-Quang\OneDrive\Desktop\201592-BuiTranQuang-QLtaiChinhCaNhan\201592-BuiTranQuang-QLTaiChinhCaNhan\Demo\GUI\obj\Debug\GUI.pdb
+C:\Users\PC-Quang\OneDrive\Desktop\201592-BuiTranQuang-QLtaiChinhCaNhan\201592-BuiTranQuang-QLTaiChinhCaNhan\Demo\GUI\GUI.exe
+C:\Users\PC-Quang\OneDrive\Desktop\201592-BuiTranQuang-QLtaiChinhCaNhan\201592-BuiTranQuang-QLTaiChinhCaNhan\Demo\GUI\GUI.pdb
+C:\Users\PC-Quang\OneDrive\Desktop\201592-BuiTranQuang-QLtaiChinhCaNhan\201592-BuiTranQuang-QLTaiChinhCaNhan\Demo\GUI\Aspose.Words.dll
+C:\Users\PC-Quang\OneDrive\Desktop\201592-BuiTranQuang-QLtaiChinhCaNhan\201592-BuiTranQuang-QLTaiChinhCaNhan\Demo\GUI\BLL.dll
+C:\Users\PC-Quang\OneDrive\Desktop\201592-BuiTranQuang-QLtaiChinhCaNhan\201592-BuiTranQuang-QLTaiChinhCaNhan\Demo\GUI\DTO.dll
+C:\Users\PC-Quang\OneDrive\Desktop\201592-BuiTranQuang-QLtaiChinhCaNhan\201592-BuiTranQuang-QLTaiChinhCaNhan\Demo\GUI\EntityFramework.dll
+C:\Users\PC-Quang\OneDrive\Desktop\201592-BuiTranQuang-QLtaiChinhCaNhan\201592-BuiTranQuang-QLTaiChinhCaNhan\Demo\GUI\EntityFramework.SqlServer.dll
+C:\Users\PC-Quang\OneDrive\Desktop\201592-BuiTranQuang-QLtaiChinhCaNhan\201592-BuiTranQuang-QLTaiChinhCaNhan\Demo\GUI\DAL.dll
+C:\Users\PC-Quang\OneDrive\Desktop\201592-BuiTranQuang-QLtaiChinhCaNhan\201592-BuiTranQuang-QLTaiChinhCaNhan\Demo\GUI\BLL.pdb
+C:\Users\PC-Quang\OneDrive\Desktop\201592-BuiTranQuang-QLtaiChinhCaNhan\201592-BuiTranQuang-QLTaiChinhCaNhan\Demo\GUI\DTO.pdb
+C:\Users\PC-Quang\OneDrive\Desktop\201592-BuiTranQuang-QLtaiChinhCaNhan\201592-BuiTranQuang-QLTaiChinhCaNhan\Demo\GUI\DTO.dll.config
+C:\Users\PC-Quang\OneDrive\Desktop\201592-BuiTranQuang-QLtaiChinhCaNhan\201592-BuiTranQuang-QLTaiChinhCaNhan\Demo\GUI\EntityFramework.xml
+C:\Users\PC-Quang\OneDrive\Desktop\201592-BuiTranQuang-QLtaiChinhCaNhan\201592-BuiTranQuang-QLTaiChinhCaNhan\Demo\GUI\EntityFramework.SqlServer.xml
+C:\Users\PC-Quang\OneDrive\Desktop\201592-BuiTranQuang-QLtaiChinhCaNhan\201592-BuiTranQuang-QLTaiChinhCaNhan\Demo\GUI\DAL.pdb
+C:\Users\PC-Quang\OneDrive\Desktop\201592-BuiTranQuang-QLtaiChinhCaNhan\201592-BuiTranQuang-QLTaiChinhCaNhan\Demo\GUI\obj\Debug\GUI.MiniForm.ChonVi.resources

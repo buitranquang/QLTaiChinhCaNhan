@@ -1,0 +1,94 @@
+D:\ThucTapPLP\QuanLyChiTieuCaNhan_PLP\DTO\bin\Debug\DTO.dll
+D:\ThucTapPLP\QuanLyChiTieuCaNhan_PLP\DTO\bin\Debug\DTO.pdb
+D:\ThucTapPLP\QuanLyChiTieuCaNhan_PLP\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+D:\ThucTapPLP\QuanLyChiTieuCaNhan_PLP\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+D:\ThucTapPLP\QuanLyChiTieuCaNhan_PLP\DTO\obj\Debug\DTO.dll
+D:\ThucTapPLP\QuanLyChiTieuCaNhan_PLP\DTO\obj\Debug\DTO.pdb
+D:\ThucTapPLP\QuanLyChiTieuCaNhan_PLP\DTO\bin\Debug\EntityFramework.dll
+D:\ThucTapPLP\QuanLyChiTieuCaNhan_PLP\DTO\bin\Debug\EntityFramework.SqlServer.dll
+D:\ThucTapPLP\QuanLyChiTieuCaNhan_PLP\DTO\bin\Debug\EntityFramework.xml
+D:\ThucTapPLP\QuanLyChiTieuCaNhan_PLP\DTO\bin\Debug\EntityFramework.SqlServer.xml
+D:\ThucTapPLP\QuanLyChiTieuCaNhan_PLP\DTO\obj\Debug\DTO.csproj.Up2Date
+D:\ThucTapPLP\QuanLyChiTieuCaNhan_PLP\DTO\bin\Debug\DTO.dll.config
+D:\ThucTapPLP\backup2\DTO\bin\Debug\DTO.dll.config
+D:\ThucTapPLP\backup2\DTO\bin\Debug\DTO.dll
+D:\ThucTapPLP\backup2\DTO\bin\Debug\DTO.pdb
+D:\ThucTapPLP\backup2\DTO\bin\Debug\EntityFramework.dll
+D:\ThucTapPLP\backup2\DTO\bin\Debug\EntityFramework.SqlServer.dll
+D:\ThucTapPLP\backup2\DTO\bin\Debug\EntityFramework.xml
+D:\ThucTapPLP\backup2\DTO\bin\Debug\EntityFramework.SqlServer.xml
+D:\ThucTapPLP\backup2\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+D:\ThucTapPLP\backup2\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+D:\ThucTapPLP\backup2\DTO\obj\Debug\DTO.csproj.Up2Date
+D:\ThucTapPLP\backup2\DTO\obj\Debug\DTO.dll
+D:\ThucTapPLP\backup2\DTO\obj\Debug\DTO.pdb
+D:\ThucTapPLP\QLChiTieuCaNhan\DTO\bin\Debug\DTO.dll.config
+D:\ThucTapPLP\QLChiTieuCaNhan\DTO\bin\Debug\DTO.dll
+D:\ThucTapPLP\QLChiTieuCaNhan\DTO\bin\Debug\DTO.pdb
+D:\ThucTapPLP\QLChiTieuCaNhan\DTO\bin\Debug\EntityFramework.dll
+D:\ThucTapPLP\QLChiTieuCaNhan\DTO\bin\Debug\EntityFramework.SqlServer.dll
+D:\ThucTapPLP\QLChiTieuCaNhan\DTO\bin\Debug\EntityFramework.xml
+D:\ThucTapPLP\QLChiTieuCaNhan\DTO\bin\Debug\EntityFramework.SqlServer.xml
+D:\ThucTapPLP\QLChiTieuCaNhan\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+D:\ThucTapPLP\QLChiTieuCaNhan\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+D:\ThucTapPLP\QLChiTieuCaNhan\DTO\obj\Debug\DTO.csproj.Up2Date
+D:\ThucTapPLP\QLChiTieuCaNhan\DTO\obj\Debug\DTO.dll
+D:\ThucTapPLP\QLChiTieuCaNhan\DTO\obj\Debug\DTO.pdb
+D:\ThucTapPLP\QLChiTieuCaNhan - Copy\DTO\bin\Debug\DTO.dll.config
+D:\ThucTapPLP\QLChiTieuCaNhan - Copy\DTO\bin\Debug\DTO.dll
+D:\ThucTapPLP\QLChiTieuCaNhan - Copy\DTO\bin\Debug\DTO.pdb
+D:\ThucTapPLP\QLChiTieuCaNhan - Copy\DTO\bin\Debug\EntityFramework.dll
+D:\ThucTapPLP\QLChiTieuCaNhan - Copy\DTO\bin\Debug\EntityFramework.SqlServer.dll
+D:\ThucTapPLP\QLChiTieuCaNhan - Copy\DTO\bin\Debug\EntityFramework.xml
+D:\ThucTapPLP\QLChiTieuCaNhan - Copy\DTO\bin\Debug\EntityFramework.SqlServer.xml
+D:\ThucTapPLP\QLChiTieuCaNhan - Copy\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+D:\ThucTapPLP\QLChiTieuCaNhan - Copy\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+D:\ThucTapPLP\QLChiTieuCaNhan - Copy\DTO\obj\Debug\DTO.csproj.Up2Date
+D:\ThucTapPLP\QLChiTieuCaNhan - Copy\DTO\obj\Debug\DTO.dll
+D:\ThucTapPLP\QLChiTieuCaNhan - Copy\DTO\obj\Debug\DTO.pdb
+E:\QLChiTieuCaNhan\DTO\bin\Debug\DTO.dll.config
+E:\QLChiTieuCaNhan\DTO\bin\Debug\DTO.dll
+E:\QLChiTieuCaNhan\DTO\bin\Debug\DTO.pdb
+E:\QLChiTieuCaNhan\DTO\bin\Debug\EntityFramework.dll
+E:\QLChiTieuCaNhan\DTO\bin\Debug\EntityFramework.SqlServer.dll
+E:\QLChiTieuCaNhan\DTO\bin\Debug\EntityFramework.xml
+E:\QLChiTieuCaNhan\DTO\bin\Debug\EntityFramework.SqlServer.xml
+E:\QLChiTieuCaNhan\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
+E:\QLChiTieuCaNhan\DTO\obj\Debug\DTO.dll
+E:\QLChiTieuCaNhan\DTO\obj\Debug\DTO.pdb
+C:\Users\PC-Quang\Downloads\QLChiTieuCaNhan\QLChiTieuCaNhan\DTO\bin\Debug\DTO.dll.config
+C:\Users\PC-Quang\Downloads\QLChiTieuCaNhan\QLChiTieuCaNhan\DTO\bin\Debug\DTO.dll
+C:\Users\PC-Quang\Downloads\QLChiTieuCaNhan\QLChiTieuCaNhan\DTO\bin\Debug\DTO.pdb
+C:\Users\PC-Quang\Downloads\QLChiTieuCaNhan\QLChiTieuCaNhan\DTO\bin\Debug\EntityFramework.dll
+C:\Users\PC-Quang\Downloads\QLChiTieuCaNhan\QLChiTieuCaNhan\DTO\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\PC-Quang\Downloads\QLChiTieuCaNhan\QLChiTieuCaNhan\DTO\bin\Debug\EntityFramework.xml
+C:\Users\PC-Quang\Downloads\QLChiTieuCaNhan\QLChiTieuCaNhan\DTO\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\PC-Quang\Downloads\QLChiTieuCaNhan\QLChiTieuCaNhan\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+C:\Users\PC-Quang\Downloads\QLChiTieuCaNhan\QLChiTieuCaNhan\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+C:\Users\PC-Quang\Downloads\QLChiTieuCaNhan\QLChiTieuCaNhan\DTO\obj\Debug\DTO.csproj.Up2Date
+C:\Users\PC-Quang\Downloads\QLChiTieuCaNhan\QLChiTieuCaNhan\DTO\obj\Debug\DTO.dll
+C:\Users\PC-Quang\Downloads\QLChiTieuCaNhan\QLChiTieuCaNhan\DTO\obj\Debug\DTO.pdb
+D:\ThucTapPLP\BuiTranQuang\QLTaiChinh_App\DTO\bin\Debug\DTO.dll.config
+D:\ThucTapPLP\BuiTranQuang\QLTaiChinh_App\DTO\bin\Debug\DTO.dll
+D:\ThucTapPLP\BuiTranQuang\QLTaiChinh_App\DTO\bin\Debug\DTO.pdb
+D:\ThucTapPLP\BuiTranQuang\QLTaiChinh_App\DTO\bin\Debug\EntityFramework.dll
+D:\ThucTapPLP\BuiTranQuang\QLTaiChinh_App\DTO\bin\Debug\EntityFramework.SqlServer.dll
+D:\ThucTapPLP\BuiTranQuang\QLTaiChinh_App\DTO\bin\Debug\EntityFramework.xml
+D:\ThucTapPLP\BuiTranQuang\QLTaiChinh_App\DTO\bin\Debug\EntityFramework.SqlServer.xml
+D:\ThucTapPLP\BuiTranQuang\QLTaiChinh_App\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+D:\ThucTapPLP\BuiTranQuang\QLTaiChinh_App\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+D:\ThucTapPLP\BuiTranQuang\QLTaiChinh_App\DTO\obj\Debug\DTO.csproj.Up2Date
+D:\ThucTapPLP\BuiTranQuang\QLTaiChinh_App\DTO\obj\Debug\DTO.dll
+D:\ThucTapPLP\BuiTranQuang\QLTaiChinh_App\DTO\obj\Debug\DTO.pdb
+C:\Users\PC-Quang\OneDrive\Desktop\201592-BuiTranQuang-QLtaiChinhCaNhan\201592-BuiTranQuang-QLtaiChinhCaNhan\QLTaiChinh_App\DTO\bin\Debug\DTO.dll.config
+C:\Users\PC-Quang\OneDrive\Desktop\201592-BuiTranQuang-QLtaiChinhCaNhan\201592-BuiTranQuang-QLtaiChinhCaNhan\QLTaiChinh_App\DTO\bin\Debug\DTO.dll
+C:\Users\PC-Quang\OneDrive\Desktop\201592-BuiTranQuang-QLtaiChinhCaNhan\201592-BuiTranQuang-QLtaiChinhCaNhan\QLTaiChinh_App\DTO\bin\Debug\DTO.pdb
+C:\Users\PC-Quang\OneDrive\Desktop\201592-BuiTranQuang-QLtaiChinhCaNhan\201592-BuiTranQuang-QLtaiChinhCaNhan\QLTaiChinh_App\DTO\bin\Debug\EntityFramework.dll
+C:\Users\PC-Quang\OneDrive\Desktop\201592-BuiTranQuang-QLtaiChinhCaNhan\201592-BuiTranQuang-QLtaiChinhCaNhan\QLTaiChinh_App\DTO\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\PC-Quang\OneDrive\Desktop\201592-BuiTranQuang-QLtaiChinhCaNhan\201592-BuiTranQuang-QLtaiChinhCaNhan\QLTaiChinh_App\DTO\bin\Debug\EntityFramework.xml
+C:\Users\PC-Quang\OneDrive\Desktop\201592-BuiTranQuang-QLtaiChinhCaNhan\201592-BuiTranQuang-QLtaiChinhCaNhan\QLTaiChinh_App\DTO\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\PC-Quang\OneDrive\Desktop\201592-BuiTranQuang-QLtaiChinhCaNhan\201592-BuiTranQuang-QLtaiChinhCaNhan\QLTaiChinh_App\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+C:\Users\PC-Quang\OneDrive\Desktop\201592-BuiTranQuang-QLtaiChinhCaNhan\201592-BuiTranQuang-QLtaiChinhCaNhan\QLTaiChinh_App\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+C:\Users\PC-Quang\OneDrive\Desktop\201592-BuiTranQuang-QLtaiChinhCaNhan\201592-BuiTranQuang-QLtaiChinhCaNhan\QLTaiChinh_App\DTO\obj\Debug\DTO.csproj.Up2Date
+C:\Users\PC-Quang\OneDrive\Desktop\201592-BuiTranQuang-QLtaiChinhCaNhan\201592-BuiTranQuang-QLtaiChinhCaNhan\QLTaiChinh_App\DTO\obj\Debug\DTO.dll
+C:\Users\PC-Quang\OneDrive\Desktop\201592-BuiTranQuang-QLtaiChinhCaNhan\201592-BuiTranQuang-QLtaiChinhCaNhan\QLTaiChinh_App\DTO\obj\Debug\DTO.pdb

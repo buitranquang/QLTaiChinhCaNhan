@@ -1,0 +1,288 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{DD9FF0E9-17CF-4D0B-A82A-183E8D7A7F03}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>GUI</RootNamespace>
+    <AssemblyName>GUI</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>.\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Aspose.Words">
+      <HintPath>Lib\Aspose.Words.dll</HintPath>
+    </Reference>
+    <Reference Include="EntityFramework, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.2.0\lib\net45\EntityFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="EntityFramework.SqlServer, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.2.0\lib\net45\EntityFramework.SqlServer.dll</HintPath>
+    </Reference>
+    <Reference Include="PresentationCore" />
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.DirectoryServices" />
+    <Reference Include="System.Numerics" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.Security" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="App\UCCacKhoanVay.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="App\UCCacKhoanVay.Designer.cs">
+      <DependentUpon>UCCacKhoanVay.cs</DependentUpon>
+    </Compile>
+    <Compile Include="App\UCCacTaiKhoan.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="App\UCCacTaiKhoan.Designer.cs">
+      <DependentUpon>UCCacTaiKhoan.cs</DependentUpon>
+    </Compile>
+    <Compile Include="App\UCChiTieu.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="App\UCChiTieu.Designer.cs">
+      <DependentUpon>UCChiTieu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="App\UCNguoiDung.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="App\UCNguoiDung.Designer.cs">
+      <DependentUpon>UCNguoiDung.cs</DependentUpon>
+    </Compile>
+    <Compile Include="App\UCThuNhap.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="App\UCThuNhap.Designer.cs">
+      <DependentUpon>UCThuNhap.cs</DependentUpon>
+    </Compile>
+    <Compile Include="App\UCTongQuan.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="App\UCTongQuan.Designer.cs">
+      <DependentUpon>UCTongQuan.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DangKy.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DangKy.Designer.cs">
+      <DependentUpon>DangKy.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DangNhap.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DangNhap.Designer.cs">
+      <DependentUpon>DangNhap.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Lib\ReportExtensionMethod.cs" />
+    <Compile Include="MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MainForm.Designer.cs">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MiniForm\AddChiTieu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MiniForm\AddChiTieu.Designer.cs">
+      <DependentUpon>AddChiTieu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MiniForm\AddKhoanVay.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MiniForm\AddKhoanVay.Designer.cs">
+      <DependentUpon>AddKhoanVay.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MiniForm\AddLoaiCT.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MiniForm\AddLoaiCT.Designer.cs">
+      <DependentUpon>AddLoaiCT.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MiniForm\AddVi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MiniForm\AddVi.Designer.cs">
+      <DependentUpon>AddVi.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MiniForm\ChonVi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MiniForm\ChonVi.Designer.cs">
+      <DependentUpon>ChonVi.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MiniForm\UpdateMatKhau.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MiniForm\UpdateMatKhau.Designer.cs">
+      <DependentUpon>UpdateMatKhau.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="App\UCCacKhoanVay.resx">
+      <DependentUpon>UCCacKhoanVay.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="App\UCCacTaiKhoan.resx">
+      <DependentUpon>UCCacTaiKhoan.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="App\UCChiTieu.resx">
+      <DependentUpon>UCChiTieu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="App\UCNguoiDung.resx">
+      <DependentUpon>UCNguoiDung.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="App\UCThuNhap.resx">
+      <DependentUpon>UCThuNhap.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="App\UCTongQuan.resx">
+      <DependentUpon>UCTongQuan.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DangKy.resx">
+      <DependentUpon>DangKy.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DangNhap.resx">
+      <DependentUpon>DangNhap.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MainForm.resx">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MiniForm\AddChiTieu.resx">
+      <DependentUpon>AddChiTieu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MiniForm\AddKhoanVay.resx">
+      <DependentUpon>AddKhoanVay.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MiniForm\AddLoaiCT.resx">
+      <DependentUpon>AddLoaiCT.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MiniForm\AddVi.resx">
+      <DependentUpon>AddVi.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MiniForm\ChonVi.resx">
+      <DependentUpon>ChonVi.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MiniForm\UpdateMatKhau.resx">
+      <DependentUpon>UpdateMatKhau.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <None Include="template\danhsachthuchi.docx" />
+    <None Include="template\MauThongTinUser.doc" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="scr\menuCheck.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="scr\logoShop.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="scr\logo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="scr\search-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="scr\wallet.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\BLL\BLL.csproj">
+      <Project>{2a471594-deae-43f4-92ef-4dff1c58962b}</Project>
+      <Name>BLL</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\DTO\DTO.csproj">
+      <Project>{414cfebd-fed8-4e5b-8767-68af5a0267eb}</Project>
+      <Name>DTO</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="scr\userIcon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="scr\u.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="scr\plus %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="scr\minus %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="scr\menuBarCheck.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="scr\img1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="scr\img2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="scr\img3.png" />
+  </ItemGroup>
+  <ItemGroup />
+  <ItemGroup>
+    <WCFMetadata Include="Connected Services\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Lib\Aspose.Words.dll" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

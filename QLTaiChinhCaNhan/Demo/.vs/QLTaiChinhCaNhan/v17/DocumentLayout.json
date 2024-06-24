@@ -1,0 +1,784 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC-Quang\\OneDrive\\Desktop\\201592-BuiTranQuang-QLtaiChinhCaNhan\\201592-BuiTranQuang-QLTaiChinhCaNhan\\Demo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DD9FF0E9-17CF-4D0B-A82A-183E8D7A7F03}|GUI\\GUI.csproj|c:\\users\\pc-quang\\onedrive\\desktop\\201592-buitranquang-qltaichinhcanhan\\201592-buitranquang-qltaichinhcanhan\\demo\\gui\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DD9FF0E9-17CF-4D0B-A82A-183E8D7A7F03}|GUI\\GUI.csproj|solutionrelative:gui\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD9FF0E9-17CF-4D0B-A82A-183E8D7A7F03}|GUI\\GUI.csproj|C:\\Users\\PC-Quang\\OneDrive\\Desktop\\201592-BuiTranQuang-QLtaiChinhCaNhan\\201592-BuiTranQuang-QLTaiChinhCaNhan\\Demo\\gui\\miniform\\chonvi.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD9FF0E9-17CF-4D0B-A82A-183E8D7A7F03}|GUI\\GUI.csproj|solutionrelative:gui\\miniform\\chonvi.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD9FF0E9-17CF-4D0B-A82A-183E8D7A7F03}|GUI\\GUI.csproj|C:\\Users\\PC-Quang\\OneDrive\\Desktop\\201592-BuiTranQuang-QLtaiChinhCaNhan\\201592-BuiTranQuang-QLTaiChinhCaNhan\\Demo\\gui\\miniform\\chonvi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD9FF0E9-17CF-4D0B-A82A-183E8D7A7F03}|GUI\\GUI.csproj|solutionrelative:gui\\miniform\\chonvi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD9FF0E9-17CF-4D0B-A82A-183E8D7A7F03}|GUI\\GUI.csproj|C:\\Users\\PC-Quang\\OneDrive\\Desktop\\201592-BuiTranQuang-QLtaiChinhCaNhan\\201592-BuiTranQuang-QLTaiChinhCaNhan\\Demo\\gui\\miniform\\chonvi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DD9FF0E9-17CF-4D0B-A82A-183E8D7A7F03}|GUI\\GUI.csproj|solutionrelative:gui\\miniform\\chonvi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD9FF0E9-17CF-4D0B-A82A-183E8D7A7F03}|GUI\\GUI.csproj|C:\\Users\\PC-Quang\\OneDrive\\Desktop\\201592-BuiTranQuang-QLtaiChinhCaNhan\\201592-BuiTranQuang-QLTaiChinhCaNhan\\Demo\\gui\\miniform\\addchitieu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD9FF0E9-17CF-4D0B-A82A-183E8D7A7F03}|GUI\\GUI.csproj|solutionrelative:gui\\miniform\\addchitieu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD9FF0E9-17CF-4D0B-A82A-183E8D7A7F03}|GUI\\GUI.csproj|C:\\Users\\PC-Quang\\OneDrive\\Desktop\\201592-BuiTranQuang-QLtaiChinhCaNhan\\201592-BuiTranQuang-QLTaiChinhCaNhan\\Demo\\gui\\miniform\\addchitieu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DD9FF0E9-17CF-4D0B-A82A-183E8D7A7F03}|GUI\\GUI.csproj|solutionrelative:gui\\miniform\\addchitieu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BC695DC-34E2-4282-B563-57E68D4F6F68}|DAL\\DAL.csproj|C:\\Users\\PC-Quang\\OneDrive\\Desktop\\201592-BuiTranQuang-QLtaiChinhCaNhan\\201592-BuiTranQuang-QLTaiChinhCaNhan\\Demo\\dal\\khoanvayaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BC695DC-34E2-4282-B563-57E68D4F6F68}|DAL\\DAL.csproj|solutionrelative:dal\\khoanvayaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A471594-DEAE-43F4-92EF-4DFF1C58962B}|BLL\\BLL.csproj|C:\\Users\\PC-Quang\\OneDrive\\Desktop\\201592-BuiTranQuang-QLtaiChinhCaNhan\\201592-BuiTranQuang-QLTaiChinhCaNhan\\Demo\\bll\\khoanvaybll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A471594-DEAE-43F4-92EF-4DFF1C58962B}|BLL\\BLL.csproj|solutionrelative:bll\\khoanvaybll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BC695DC-34E2-4282-B563-57E68D4F6F68}|DAL\\DAL.csproj|C:\\Users\\PC-Quang\\OneDrive\\Desktop\\201592-BuiTranQuang-QLtaiChinhCaNhan\\201592-BuiTranQuang-QLTaiChinhCaNhan\\Demo\\dal\\taikhoanaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BC695DC-34E2-4282-B563-57E68D4F6F68}|DAL\\DAL.csproj|solutionrelative:dal\\taikhoanaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BC695DC-34E2-4282-B563-57E68D4F6F68}|DAL\\DAL.csproj|C:\\Users\\PC-Quang\\OneDrive\\Desktop\\201592-BuiTranQuang-QLtaiChinhCaNhan\\201592-BuiTranQuang-QLTaiChinhCaNhan\\Demo\\dal\\chitieuaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BC695DC-34E2-4282-B563-57E68D4F6F68}|DAL\\DAL.csproj|solutionrelative:dal\\chitieuaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{414CFEBD-FED8-4E5B-8767-68AF5A0267EB}|DTO\\DTO.csproj|C:\\Users\\PC-Quang\\OneDrive\\Desktop\\201592-BuiTranQuang-QLtaiChinhCaNhan\\201592-BuiTranQuang-QLTaiChinhCaNhan\\Demo\\dto\\khoanvay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{414CFEBD-FED8-4E5B-8767-68AF5A0267EB}|DTO\\DTO.csproj|solutionrelative:dto\\khoanvay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD9FF0E9-17CF-4D0B-A82A-183E8D7A7F03}|GUI\\GUI.csproj|C:\\Users\\PC-Quang\\OneDrive\\Desktop\\201592-BuiTranQuang-QLtaiChinhCaNhan\\201592-BuiTranQuang-QLTaiChinhCaNhan\\Demo\\gui\\app\\uccackhoanvay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD9FF0E9-17CF-4D0B-A82A-183E8D7A7F03}|GUI\\GUI.csproj|solutionrelative:gui\\app\\uccackhoanvay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD9FF0E9-17CF-4D0B-A82A-183E8D7A7F03}|GUI\\GUI.csproj|C:\\Users\\PC-Quang\\OneDrive\\Desktop\\201592-BuiTranQuang-QLtaiChinhCaNhan\\201592-BuiTranQuang-QLTaiChinhCaNhan\\Demo\\gui\\app\\uccackhoanvay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DD9FF0E9-17CF-4D0B-A82A-183E8D7A7F03}|GUI\\GUI.csproj|solutionrelative:gui\\app\\uccackhoanvay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD9FF0E9-17CF-4D0B-A82A-183E8D7A7F03}|GUI\\GUI.csproj|C:\\Users\\PC-Quang\\OneDrive\\Desktop\\201592-BuiTranQuang-QLtaiChinhCaNhan\\201592-BuiTranQuang-QLTaiChinhCaNhan\\Demo\\gui\\miniform\\addvi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DD9FF0E9-17CF-4D0B-A82A-183E8D7A7F03}|GUI\\GUI.csproj|solutionrelative:gui\\miniform\\addvi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD9FF0E9-17CF-4D0B-A82A-183E8D7A7F03}|GUI\\GUI.csproj|C:\\Users\\PC-Quang\\OneDrive\\Desktop\\201592-BuiTranQuang-QLtaiChinhCaNhan\\201592-BuiTranQuang-QLTaiChinhCaNhan\\Demo\\gui\\miniform\\addloaict.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DD9FF0E9-17CF-4D0B-A82A-183E8D7A7F03}|GUI\\GUI.csproj|solutionrelative:gui\\miniform\\addloaict.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD9FF0E9-17CF-4D0B-A82A-183E8D7A7F03}|GUI\\GUI.csproj|C:\\Users\\PC-Quang\\OneDrive\\Desktop\\201592-BuiTranQuang-QLtaiChinhCaNhan\\201592-BuiTranQuang-QLTaiChinhCaNhan\\Demo\\gui\\miniform\\addkhoanvay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DD9FF0E9-17CF-4D0B-A82A-183E8D7A7F03}|GUI\\GUI.csproj|solutionrelative:gui\\miniform\\addkhoanvay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD9FF0E9-17CF-4D0B-A82A-183E8D7A7F03}|GUI\\GUI.csproj|C:\\Users\\PC-Quang\\OneDrive\\Desktop\\201592-BuiTranQuang-QLtaiChinhCaNhan\\201592-BuiTranQuang-QLTaiChinhCaNhan\\Demo\\gui\\miniform\\addkhoanvay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD9FF0E9-17CF-4D0B-A82A-183E8D7A7F03}|GUI\\GUI.csproj|solutionrelative:gui\\miniform\\addkhoanvay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BC695DC-34E2-4282-B563-57E68D4F6F68}|DAL\\DAL.csproj|C:\\Users\\PC-Quang\\OneDrive\\Desktop\\201592-BuiTranQuang-QLtaiChinhCaNhan\\201592-BuiTranQuang-QLTaiChinhCaNhan\\Demo\\dal\\databaseaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BC695DC-34E2-4282-B563-57E68D4F6F68}|DAL\\DAL.csproj|solutionrelative:dal\\databaseaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{414CFEBD-FED8-4E5B-8767-68AF5A0267EB}|DTO\\DTO.csproj|C:\\Users\\PC-Quang\\OneDrive\\Desktop\\201592-BuiTranQuang-QLtaiChinhCaNhan\\201592-BuiTranQuang-QLTaiChinhCaNhan\\Demo\\dto\\model1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{414CFEBD-FED8-4E5B-8767-68AF5A0267EB}|DTO\\DTO.csproj|solutionrelative:dto\\model1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD9FF0E9-17CF-4D0B-A82A-183E8D7A7F03}|GUI\\GUI.csproj|C:\\Users\\PC-Quang\\OneDrive\\Desktop\\201592-BuiTranQuang-QLtaiChinhCaNhan\\201592-BuiTranQuang-QLTaiChinhCaNhan\\Demo\\gui\\app\\ucthunhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD9FF0E9-17CF-4D0B-A82A-183E8D7A7F03}|GUI\\GUI.csproj|solutionrelative:gui\\app\\ucthunhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD9FF0E9-17CF-4D0B-A82A-183E8D7A7F03}|GUI\\GUI.csproj|C:\\Users\\PC-Quang\\OneDrive\\Desktop\\201592-BuiTranQuang-QLtaiChinhCaNhan\\201592-BuiTranQuang-QLTaiChinhCaNhan\\Demo\\gui\\app\\ucchitieu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD9FF0E9-17CF-4D0B-A82A-183E8D7A7F03}|GUI\\GUI.csproj|solutionrelative:gui\\app\\ucchitieu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD9FF0E9-17CF-4D0B-A82A-183E8D7A7F03}|GUI\\GUI.csproj|C:\\Users\\PC-Quang\\OneDrive\\Desktop\\201592-BuiTranQuang-QLtaiChinhCaNhan\\201592-BuiTranQuang-QLTaiChinhCaNhan\\Demo\\gui\\app\\ucchitieu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DD9FF0E9-17CF-4D0B-A82A-183E8D7A7F03}|GUI\\GUI.csproj|solutionrelative:gui\\app\\ucchitieu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD9FF0E9-17CF-4D0B-A82A-183E8D7A7F03}|GUI\\GUI.csproj|C:\\Users\\PC-Quang\\OneDrive\\Desktop\\201592-BuiTranQuang-QLtaiChinhCaNhan\\201592-BuiTranQuang-QLTaiChinhCaNhan\\Demo\\gui\\app\\ucthunhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DD9FF0E9-17CF-4D0B-A82A-183E8D7A7F03}|GUI\\GUI.csproj|solutionrelative:gui\\app\\ucthunhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD9FF0E9-17CF-4D0B-A82A-183E8D7A7F03}|GUI\\GUI.csproj|C:\\Users\\PC-Quang\\OneDrive\\Desktop\\201592-BuiTranQuang-QLtaiChinhCaNhan\\201592-BuiTranQuang-QLTaiChinhCaNhan\\Demo\\gui\\miniform\\addloaict.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD9FF0E9-17CF-4D0B-A82A-183E8D7A7F03}|GUI\\GUI.csproj|solutionrelative:gui\\miniform\\addloaict.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD9FF0E9-17CF-4D0B-A82A-183E8D7A7F03}|GUI\\GUI.csproj|C:\\Users\\PC-Quang\\OneDrive\\Desktop\\201592-BuiTranQuang-QLtaiChinhCaNhan\\201592-BuiTranQuang-QLTaiChinhCaNhan\\Demo\\gui\\miniform\\addvi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD9FF0E9-17CF-4D0B-A82A-183E8D7A7F03}|GUI\\GUI.csproj|solutionrelative:gui\\miniform\\addvi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD9FF0E9-17CF-4D0B-A82A-183E8D7A7F03}|GUI\\GUI.csproj|C:\\Users\\PC-Quang\\OneDrive\\Desktop\\201592-BuiTranQuang-QLtaiChinhCaNhan\\201592-BuiTranQuang-QLTaiChinhCaNhan\\Demo\\gui\\dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DD9FF0E9-17CF-4D0B-A82A-183E8D7A7F03}|GUI\\GUI.csproj|solutionrelative:gui\\dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD9FF0E9-17CF-4D0B-A82A-183E8D7A7F03}|GUI\\GUI.csproj|C:\\Users\\PC-Quang\\OneDrive\\Desktop\\201592-BuiTranQuang-QLtaiChinhCaNhan\\201592-BuiTranQuang-QLTaiChinhCaNhan\\Demo\\gui\\dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD9FF0E9-17CF-4D0B-A82A-183E8D7A7F03}|GUI\\GUI.csproj|solutionrelative:gui\\dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD9FF0E9-17CF-4D0B-A82A-183E8D7A7F03}|GUI\\GUI.csproj|C:\\Users\\PC-Quang\\OneDrive\\Desktop\\201592-BuiTranQuang-QLtaiChinhCaNhan\\201592-BuiTranQuang-QLTaiChinhCaNhan\\Demo\\gui\\app\\ucnguoidung.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DD9FF0E9-17CF-4D0B-A82A-183E8D7A7F03}|GUI\\GUI.csproj|solutionrelative:gui\\app\\ucnguoidung.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A471594-DEAE-43F4-92EF-4DFF1C58962B}|BLL\\BLL.csproj|C:\\Users\\PC-Quang\\OneDrive\\Desktop\\201592-BuiTranQuang-QLtaiChinhCaNhan\\201592-BuiTranQuang-QLTaiChinhCaNhan\\Demo\\bll\\taikhoanbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A471594-DEAE-43F4-92EF-4DFF1C58962B}|BLL\\BLL.csproj|solutionrelative:bll\\taikhoanbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD9FF0E9-17CF-4D0B-A82A-183E8D7A7F03}|GUI\\GUI.csproj|C:\\Users\\PC-Quang\\OneDrive\\Desktop\\201592-BuiTranQuang-QLtaiChinhCaNhan\\201592-BuiTranQuang-QLTaiChinhCaNhan\\Demo\\gui\\app\\ucnguoidung.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD9FF0E9-17CF-4D0B-A82A-183E8D7A7F03}|GUI\\GUI.csproj|solutionrelative:gui\\app\\ucnguoidung.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD9FF0E9-17CF-4D0B-A82A-183E8D7A7F03}|GUI\\GUI.csproj|C:\\Users\\PC-Quang\\OneDrive\\Desktop\\201592-BuiTranQuang-QLtaiChinhCaNhan\\201592-BuiTranQuang-QLTaiChinhCaNhan\\Demo\\gui\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD9FF0E9-17CF-4D0B-A82A-183E8D7A7F03}|GUI\\GUI.csproj|solutionrelative:gui\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD9FF0E9-17CF-4D0B-A82A-183E8D7A7F03}|GUI\\GUI.csproj|C:\\Users\\PC-Quang\\OneDrive\\Desktop\\201592-BuiTranQuang-QLtaiChinhCaNhan\\201592-BuiTranQuang-QLTaiChinhCaNhan\\Demo\\gui\\dangky.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD9FF0E9-17CF-4D0B-A82A-183E8D7A7F03}|GUI\\GUI.csproj|solutionrelative:gui\\dangky.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD9FF0E9-17CF-4D0B-A82A-183E8D7A7F03}|GUI\\GUI.csproj|C:\\Users\\PC-Quang\\OneDrive\\Desktop\\201592-BuiTranQuang-QLtaiChinhCaNhan\\201592-BuiTranQuang-QLTaiChinhCaNhan\\Demo\\gui\\dangky.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DD9FF0E9-17CF-4D0B-A82A-183E8D7A7F03}|GUI\\GUI.csproj|solutionrelative:gui\\dangky.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BC695DC-34E2-4282-B563-57E68D4F6F68}|DAL\\DAL.csproj|C:\\Users\\PC-Quang\\OneDrive\\Desktop\\201592-BuiTranQuang-QLtaiChinhCaNhan\\201592-BuiTranQuang-QLTaiChinhCaNhan\\Demo\\dal\\loaictaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BC695DC-34E2-4282-B563-57E68D4F6F68}|DAL\\DAL.csproj|solutionrelative:dal\\loaictaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A471594-DEAE-43F4-92EF-4DFF1C58962B}|BLL\\BLL.csproj|C:\\Users\\PC-Quang\\OneDrive\\Desktop\\201592-BuiTranQuang-QLtaiChinhCaNhan\\201592-BuiTranQuang-QLTaiChinhCaNhan\\Demo\\bll\\loaictbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A471594-DEAE-43F4-92EF-4DFF1C58962B}|BLL\\BLL.csproj|solutionrelative:bll\\loaictbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A471594-DEAE-43F4-92EF-4DFF1C58962B}|BLL\\BLL.csproj|C:\\Users\\PC-Quang\\OneDrive\\Desktop\\201592-BuiTranQuang-QLtaiChinhCaNhan\\201592-BuiTranQuang-QLTaiChinhCaNhan\\Demo\\bll\\chitieubll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A471594-DEAE-43F4-92EF-4DFF1C58962B}|BLL\\BLL.csproj|solutionrelative:bll\\chitieubll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A471594-DEAE-43F4-92EF-4DFF1C58962B}|BLL\\BLL.csproj|C:\\Users\\PC-Quang\\OneDrive\\Desktop\\201592-BuiTranQuang-QLtaiChinhCaNhan\\201592-BuiTranQuang-QLTaiChinhCaNhan\\Demo\\bll\\vibll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A471594-DEAE-43F4-92EF-4DFF1C58962B}|BLL\\BLL.csproj|solutionrelative:bll\\vibll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD9FF0E9-17CF-4D0B-A82A-183E8D7A7F03}|GUI\\GUI.csproj|C:\\Users\\PC-Quang\\OneDrive\\Desktop\\201592-BuiTranQuang-QLtaiChinhCaNhan\\201592-BuiTranQuang-QLTaiChinhCaNhan\\Demo\\gui\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD9FF0E9-17CF-4D0B-A82A-183E8D7A7F03}|GUI\\GUI.csproj|solutionrelative:gui\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD9FF0E9-17CF-4D0B-A82A-183E8D7A7F03}|GUI\\GUI.csproj|C:\\Users\\PC-Quang\\OneDrive\\Desktop\\201592-BuiTranQuang-QLtaiChinhCaNhan\\201592-BuiTranQuang-QLTaiChinhCaNhan\\Demo\\gui\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{DD9FF0E9-17CF-4D0B-A82A-183E8D7A7F03}|GUI\\GUI.csproj|solutionrelative:gui\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD9FF0E9-17CF-4D0B-A82A-183E8D7A7F03}|GUI\\GUI.csproj|C:\\Users\\PC-Quang\\OneDrive\\Desktop\\201592-BuiTranQuang-QLtaiChinhCaNhan\\201592-BuiTranQuang-QLTaiChinhCaNhan\\Demo\\gui\\app\\uctongquan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD9FF0E9-17CF-4D0B-A82A-183E8D7A7F03}|GUI\\GUI.csproj|solutionrelative:gui\\app\\uctongquan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD9FF0E9-17CF-4D0B-A82A-183E8D7A7F03}|GUI\\GUI.csproj|C:\\Users\\PC-Quang\\OneDrive\\Desktop\\201592-BuiTranQuang-QLtaiChinhCaNhan\\201592-BuiTranQuang-QLTaiChinhCaNhan\\Demo\\gui\\app\\uctongquan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DD9FF0E9-17CF-4D0B-A82A-183E8D7A7F03}|GUI\\GUI.csproj|solutionrelative:gui\\app\\uctongquan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD9FF0E9-17CF-4D0B-A82A-183E8D7A7F03}|GUI\\GUI.csproj|C:\\Users\\PC-Quang\\OneDrive\\Desktop\\201592-BuiTranQuang-QLtaiChinhCaNhan\\201592-BuiTranQuang-QLTaiChinhCaNhan\\Demo\\gui\\app\\uccactaikhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DD9FF0E9-17CF-4D0B-A82A-183E8D7A7F03}|GUI\\GUI.csproj|solutionrelative:gui\\app\\uccactaikhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD9FF0E9-17CF-4D0B-A82A-183E8D7A7F03}|GUI\\GUI.csproj|C:\\Users\\PC-Quang\\OneDrive\\Desktop\\201592-BuiTranQuang-QLtaiChinhCaNhan\\201592-BuiTranQuang-QLTaiChinhCaNhan\\Demo\\gui\\app\\uccactaikhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD9FF0E9-17CF-4D0B-A82A-183E8D7A7F03}|GUI\\GUI.csproj|solutionrelative:gui\\app\\uccactaikhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BC695DC-34E2-4282-B563-57E68D4F6F68}|DAL\\DAL.csproj|C:\\Users\\PC-Quang\\OneDrive\\Desktop\\201592-BuiTranQuang-QLtaiChinhCaNhan\\201592-BuiTranQuang-QLTaiChinhCaNhan\\Demo\\dal\\viaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BC695DC-34E2-4282-B563-57E68D4F6F68}|DAL\\DAL.csproj|solutionrelative:dal\\viaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD9FF0E9-17CF-4D0B-A82A-183E8D7A7F03}|GUI\\GUI.csproj|C:\\Users\\PC-Quang\\OneDrive\\Desktop\\201592-BuiTranQuang-QLtaiChinhCaNhan\\201592-BuiTranQuang-QLTaiChinhCaNhan\\Demo\\gui\\app\\ucchitieu.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD9FF0E9-17CF-4D0B-A82A-183E8D7A7F03}|GUI\\GUI.csproj|solutionrelative:gui\\app\\ucchitieu.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{414CFEBD-FED8-4E5B-8767-68AF5A0267EB}|DTO\\DTO.csproj|C:\\Users\\PC-Quang\\OneDrive\\Desktop\\201592-BuiTranQuang-QLtaiChinhCaNhan\\201592-BuiTranQuang-QLTaiChinhCaNhan\\Demo\\dto\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{414CFEBD-FED8-4E5B-8767-68AF5A0267EB}|DTO\\DTO.csproj|solutionrelative:dto\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD9FF0E9-17CF-4D0B-A82A-183E8D7A7F03}|GUI\\GUI.csproj|C:\\Users\\PC-Quang\\OneDrive\\Desktop\\201592-BuiTranQuang-QLtaiChinhCaNhan\\201592-BuiTranQuang-QLTaiChinhCaNhan\\Demo\\gui\\dangnhap.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD9FF0E9-17CF-4D0B-A82A-183E8D7A7F03}|GUI\\GUI.csproj|solutionrelative:gui\\dangnhap.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD9FF0E9-17CF-4D0B-A82A-183E8D7A7F03}|GUI\\GUI.csproj|C:\\Users\\PC-Quang\\OneDrive\\Desktop\\201592-BuiTranQuang-QLtaiChinhCaNhan\\201592-BuiTranQuang-QLTaiChinhCaNhan\\Demo\\gui\\miniform\\addkhoanvay.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD9FF0E9-17CF-4D0B-A82A-183E8D7A7F03}|GUI\\GUI.csproj|solutionrelative:gui\\miniform\\addkhoanvay.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD9FF0E9-17CF-4D0B-A82A-183E8D7A7F03}|GUI\\GUI.csproj|C:\\Users\\PC-Quang\\OneDrive\\Desktop\\201592-BuiTranQuang-QLtaiChinhCaNhan\\201592-BuiTranQuang-QLTaiChinhCaNhan\\Demo\\gui\\app\\uccactaikhoan.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD9FF0E9-17CF-4D0B-A82A-183E8D7A7F03}|GUI\\GUI.csproj|solutionrelative:gui\\app\\uccactaikhoan.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ChonVi.cs",
+              "DocumentMoniker": "C:\\Users\\PC-Quang\\OneDrive\\Desktop\\201592-BuiTranQuang-QLtaiChinhCaNhan\\201592-BuiTranQuang-QLTaiChinhCaNhan\\Demo\\GUI\\MiniForm\\ChonVi.cs",
+              "RelativeDocumentMoniker": "GUI\\MiniForm\\ChonVi.cs",
+              "ToolTip": "C:\\Users\\PC-Quang\\OneDrive\\Desktop\\201592-BuiTranQuang-QLtaiChinhCaNhan\\201592-BuiTranQuang-QLTaiChinhCaNhan\\Demo\\GUI\\MiniForm\\ChonVi.cs",
+              "RelativeToolTip": "GUI\\MiniForm\\ChonVi.cs",
+              "ViewState": "AQIAAEEAAAAAAAAAAAAhwFIAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T15:21:26.097Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\PC-Quang\\OneDrive\\Desktop\\201592-BuiTranQuang-QLtaiChinhCaNhan\\201592-BuiTranQuang-QLTaiChinhCaNhan\\Demo\\GUI\\MainForm.cs",
+              "RelativeDocumentMoniker": "GUI\\MainForm.cs",
+              "ToolTip": "C:\\Users\\PC-Quang\\OneDrive\\Desktop\\201592-BuiTranQuang-QLtaiChinhCaNhan\\201592-BuiTranQuang-QLTaiChinhCaNhan\\Demo\\GUI\\MainForm.cs [Design]",
+              "RelativeToolTip": "GUI\\MainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T20:23:50.483Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AddVi.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\PC-Quang\\OneDrive\\Desktop\\201592-BuiTranQuang-QLtaiChinhCaNhan\\201592-BuiTranQuang-QLTaiChinhCaNhan\\Demo\\GUI\\MiniForm\\AddVi.cs",
+              "RelativeDocumentMoniker": "GUI\\MiniForm\\AddVi.cs",
+              "ToolTip": "C:\\Users\\PC-Quang\\OneDrive\\Desktop\\201592-BuiTranQuang-QLtaiChinhCaNhan\\201592-BuiTranQuang-QLTaiChinhCaNhan\\Demo\\GUI\\MiniForm\\AddVi.cs [Design]",
+              "RelativeToolTip": "GUI\\MiniForm\\AddVi.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T21:14:50.609Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ChonVi.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\PC-Quang\\OneDrive\\Desktop\\201592-BuiTranQuang-QLtaiChinhCaNhan\\201592-BuiTranQuang-QLTaiChinhCaNhan\\Demo\\GUI\\MiniForm\\ChonVi.Designer.cs",
+              "RelativeDocumentMoniker": "GUI\\MiniForm\\ChonVi.Designer.cs",
+              "ToolTip": "C:\\Users\\PC-Quang\\OneDrive\\Desktop\\201592-BuiTranQuang-QLtaiChinhCaNhan\\201592-BuiTranQuang-QLTaiChinhCaNhan\\Demo\\GUI\\MiniForm\\ChonVi.Designer.cs",
+              "RelativeToolTip": "GUI\\MiniForm\\ChonVi.Designer.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAhwEwAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T15:50:58.832Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ChiTieuAccess.cs",
+              "DocumentMoniker": "C:\\Users\\PC-Quang\\OneDrive\\Desktop\\201592-BuiTranQuang-QLtaiChinhCaNhan\\201592-BuiTranQuang-QLTaiChinhCaNhan\\Demo\\DAL\\ChiTieuAccess.cs",
+              "RelativeDocumentMoniker": "DAL\\ChiTieuAccess.cs",
+              "ToolTip": "C:\\Users\\PC-Quang\\OneDrive\\Desktop\\201592-BuiTranQuang-QLtaiChinhCaNhan\\201592-BuiTranQuang-QLTaiChinhCaNhan\\Demo\\DAL\\ChiTieuAccess.cs",
+              "RelativeToolTip": "DAL\\ChiTieuAccess.cs",
+              "ViewState": "AQIAAIcAAAAAAAAAAAAAAFIAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T18:21:45.994Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TaiKhoanAccess.cs",
+              "DocumentMoniker": "C:\\Users\\PC-Quang\\OneDrive\\Desktop\\201592-BuiTranQuang-QLtaiChinhCaNhan\\201592-BuiTranQuang-QLTaiChinhCaNhan\\Demo\\DAL\\TaiKhoanAccess.cs",
+              "RelativeDocumentMoniker": "DAL\\TaiKhoanAccess.cs",
+              "ToolTip": "C:\\Users\\PC-Quang\\OneDrive\\Desktop\\201592-BuiTranQuang-QLtaiChinhCaNhan\\201592-BuiTranQuang-QLTaiChinhCaNhan\\Demo\\DAL\\TaiKhoanAccess.cs",
+              "RelativeToolTip": "DAL\\TaiKhoanAccess.cs",
+              "ViewState": "AQIAAAgBAAAAAAAAAAAAABIBAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T16:55:51.107Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ChonVi.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\PC-Quang\\OneDrive\\Desktop\\201592-BuiTranQuang-QLtaiChinhCaNhan\\201592-BuiTranQuang-QLTaiChinhCaNhan\\Demo\\GUI\\MiniForm\\ChonVi.cs",
+              "RelativeDocumentMoniker": "GUI\\MiniForm\\ChonVi.cs",
+              "ToolTip": "C:\\Users\\PC-Quang\\OneDrive\\Desktop\\201592-BuiTranQuang-QLtaiChinhCaNhan\\201592-BuiTranQuang-QLTaiChinhCaNhan\\Demo\\GUI\\MiniForm\\ChonVi.cs [Design]",
+              "RelativeToolTip": "GUI\\MiniForm\\ChonVi.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T15:17:11.709Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AddChiTieu.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\PC-Quang\\OneDrive\\Desktop\\201592-BuiTranQuang-QLtaiChinhCaNhan\\201592-BuiTranQuang-QLTaiChinhCaNhan\\Demo\\GUI\\MiniForm\\AddChiTieu.cs",
+              "RelativeDocumentMoniker": "GUI\\MiniForm\\AddChiTieu.cs",
+              "ToolTip": "C:\\Users\\PC-Quang\\OneDrive\\Desktop\\201592-BuiTranQuang-QLtaiChinhCaNhan\\201592-BuiTranQuang-QLTaiChinhCaNhan\\Demo\\GUI\\MiniForm\\AddChiTieu.cs [Design]",
+              "RelativeToolTip": "GUI\\MiniForm\\AddChiTieu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T08:57:18.331Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AddChiTieu.cs",
+              "DocumentMoniker": "C:\\Users\\PC-Quang\\OneDrive\\Desktop\\201592-BuiTranQuang-QLtaiChinhCaNhan\\201592-BuiTranQuang-QLTaiChinhCaNhan\\Demo\\GUI\\MiniForm\\AddChiTieu.cs",
+              "RelativeDocumentMoniker": "GUI\\MiniForm\\AddChiTieu.cs",
+              "ToolTip": "C:\\Users\\PC-Quang\\OneDrive\\Desktop\\201592-BuiTranQuang-QLtaiChinhCaNhan\\201592-BuiTranQuang-QLTaiChinhCaNhan\\Demo\\GUI\\MiniForm\\AddChiTieu.cs",
+              "RelativeToolTip": "GUI\\MiniForm\\AddChiTieu.cs",
+              "ViewState": "AQIAADoAAAAAAAAAAAAhwFMAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T17:15:22.479Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "KhoanVay.cs",
+              "DocumentMoniker": "C:\\Users\\PC-Quang\\OneDrive\\Desktop\\201592-BuiTranQuang-QLtaiChinhCaNhan\\201592-BuiTranQuang-QLTaiChinhCaNhan\\Demo\\DTO\\KhoanVay.cs",
+              "RelativeDocumentMoniker": "DTO\\KhoanVay.cs",
+              "ToolTip": "C:\\Users\\PC-Quang\\OneDrive\\Desktop\\201592-BuiTranQuang-QLtaiChinhCaNhan\\201592-BuiTranQuang-QLTaiChinhCaNhan\\Demo\\DTO\\KhoanVay.cs",
+              "RelativeToolTip": "DTO\\KhoanVay.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T15:35:00.231Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "KhoanVayAccess.cs",
+              "DocumentMoniker": "C:\\Users\\PC-Quang\\OneDrive\\Desktop\\201592-BuiTranQuang-QLtaiChinhCaNhan\\201592-BuiTranQuang-QLTaiChinhCaNhan\\Demo\\DAL\\KhoanVayAccess.cs",
+              "RelativeDocumentMoniker": "DAL\\KhoanVayAccess.cs",
+              "ToolTip": "C:\\Users\\PC-Quang\\OneDrive\\Desktop\\201592-BuiTranQuang-QLtaiChinhCaNhan\\201592-BuiTranQuang-QLTaiChinhCaNhan\\Demo\\DAL\\KhoanVayAccess.cs",
+              "RelativeToolTip": "DAL\\KhoanVayAccess.cs",
+              "ViewState": "AQIAAGMAAAAAAAAAAAAAAIQAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T15:35:05.894Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "KhoanVayBLL.cs",
+              "DocumentMoniker": "C:\\Users\\PC-Quang\\OneDrive\\Desktop\\201592-BuiTranQuang-QLtaiChinhCaNhan\\201592-BuiTranQuang-QLTaiChinhCaNhan\\Demo\\BLL\\KhoanVayBLL.cs",
+              "RelativeDocumentMoniker": "BLL\\KhoanVayBLL.cs",
+              "ToolTip": "C:\\Users\\PC-Quang\\OneDrive\\Desktop\\201592-BuiTranQuang-QLtaiChinhCaNhan\\201592-BuiTranQuang-QLTaiChinhCaNhan\\Demo\\BLL\\KhoanVayBLL.cs",
+              "RelativeToolTip": "BLL\\KhoanVayBLL.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAACwAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T15:40:35.609Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AddKhoanVay.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\PC-Quang\\OneDrive\\Desktop\\201592-BuiTranQuang-QLtaiChinhCaNhan\\201592-BuiTranQuang-QLTaiChinhCaNhan\\Demo\\GUI\\MiniForm\\AddKhoanVay.cs",
+              "RelativeDocumentMoniker": "GUI\\MiniForm\\AddKhoanVay.cs",
+              "ToolTip": "C:\\Users\\PC-Quang\\OneDrive\\Desktop\\201592-BuiTranQuang-QLtaiChinhCaNhan\\201592-BuiTranQuang-QLTaiChinhCaNhan\\Demo\\GUI\\MiniForm\\AddKhoanVay.cs [Design]",
+              "RelativeToolTip": "GUI\\MiniForm\\AddKhoanVay.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T21:20:12.081Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UCCacKhoanVay.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\PC-Quang\\OneDrive\\Desktop\\201592-BuiTranQuang-QLtaiChinhCaNhan\\201592-BuiTranQuang-QLTaiChinhCaNhan\\Demo\\GUI\\App\\UCCacKhoanVay.cs",
+              "RelativeDocumentMoniker": "GUI\\App\\UCCacKhoanVay.cs",
+              "ToolTip": "C:\\Users\\PC-Quang\\OneDrive\\Desktop\\201592-BuiTranQuang-QLtaiChinhCaNhan\\201592-BuiTranQuang-QLTaiChinhCaNhan\\Demo\\GUI\\App\\UCCacKhoanVay.cs [Design]",
+              "RelativeToolTip": "GUI\\App\\UCCacKhoanVay.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T10:37:26.118Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UCCacKhoanVay.cs",
+              "DocumentMoniker": "C:\\Users\\PC-Quang\\OneDrive\\Desktop\\201592-BuiTranQuang-QLtaiChinhCaNhan\\201592-BuiTranQuang-QLTaiChinhCaNhan\\Demo\\GUI\\App\\UCCacKhoanVay.cs",
+              "RelativeDocumentMoniker": "GUI\\App\\UCCacKhoanVay.cs",
+              "ToolTip": "C:\\Users\\PC-Quang\\OneDrive\\Desktop\\201592-BuiTranQuang-QLtaiChinhCaNhan\\201592-BuiTranQuang-QLTaiChinhCaNhan\\Demo\\GUI\\App\\UCCacKhoanVay.cs",
+              "RelativeToolTip": "GUI\\App\\UCCacKhoanVay.cs",
+              "ViewState": "AQIAAF8AAAAAAAAAAAAhwFwAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T17:48:08.678Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "DatabaseAccess.cs",
+              "DocumentMoniker": "C:\\Users\\PC-Quang\\OneDrive\\Desktop\\201592-BuiTranQuang-QLtaiChinhCaNhan\\201592-BuiTranQuang-QLTaiChinhCaNhan\\Demo\\DAL\\DatabaseAccess.cs",
+              "RelativeDocumentMoniker": "DAL\\DatabaseAccess.cs",
+              "ToolTip": "C:\\Users\\PC-Quang\\OneDrive\\Desktop\\201592-BuiTranQuang-QLtaiChinhCaNhan\\201592-BuiTranQuang-QLTaiChinhCaNhan\\Demo\\DAL\\DatabaseAccess.cs",
+              "RelativeToolTip": "DAL\\DatabaseAccess.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T16:56:06.671Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "UCChiTieu.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\PC-Quang\\OneDrive\\Desktop\\201592-BuiTranQuang-QLtaiChinhCaNhan\\201592-BuiTranQuang-QLTaiChinhCaNhan\\Demo\\GUI\\App\\UCChiTieu.cs",
+              "RelativeDocumentMoniker": "GUI\\App\\UCChiTieu.cs",
+              "ToolTip": "D:\\ThucTapPLP\\BuiTranQuang\\QLTaiChinh_App\\GUI\\App\\UCChiTieu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T10:37:19.384Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AddLoaiCT.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\PC-Quang\\OneDrive\\Desktop\\201592-BuiTranQuang-QLtaiChinhCaNhan\\201592-BuiTranQuang-QLTaiChinhCaNhan\\Demo\\GUI\\MiniForm\\AddLoaiCT.cs",
+              "RelativeDocumentMoniker": "GUI\\MiniForm\\AddLoaiCT.cs",
+              "ToolTip": "C:\\Users\\PC-Quang\\OneDrive\\Desktop\\201592-BuiTranQuang-QLtaiChinhCaNhan\\201592-BuiTranQuang-QLTaiChinhCaNhan\\Demo\\GUI\\MiniForm\\AddLoaiCT.cs [Design]",
+              "RelativeToolTip": "GUI\\MiniForm\\AddLoaiCT.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T04:45:38.024Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "UCThuNhap.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\PC-Quang\\OneDrive\\Desktop\\201592-BuiTranQuang-QLtaiChinhCaNhan\\201592-BuiTranQuang-QLTaiChinhCaNhan\\Demo\\GUI\\App\\UCThuNhap.cs",
+              "RelativeDocumentMoniker": "GUI\\App\\UCThuNhap.cs",
+              "ToolTip": "D:\\ThucTapPLP\\BuiTranQuang\\QLTaiChinh_App\\GUI\\App\\UCThuNhap.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T19:12:19.196Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "UCThuNhap.cs",
+              "DocumentMoniker": "C:\\Users\\PC-Quang\\OneDrive\\Desktop\\201592-BuiTranQuang-QLtaiChinhCaNhan\\201592-BuiTranQuang-QLTaiChinhCaNhan\\Demo\\GUI\\App\\UCThuNhap.cs",
+              "RelativeDocumentMoniker": "GUI\\App\\UCThuNhap.cs",
+              "ToolTip": "C:\\Users\\PC-Quang\\OneDrive\\Desktop\\201592-BuiTranQuang-QLtaiChinhCaNhan\\201592-BuiTranQuang-QLTaiChinhCaNhan\\Demo\\GUI\\App\\UCThuNhap.cs",
+              "RelativeToolTip": "GUI\\App\\UCThuNhap.cs",
+              "ViewState": "AQIAAA8BAAAAAAAAAAAhwDkBAABkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T05:28:08.678Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AddKhoanVay.cs",
+              "DocumentMoniker": "C:\\Users\\PC-Quang\\OneDrive\\Desktop\\201592-BuiTranQuang-QLtaiChinhCaNhan\\201592-BuiTranQuang-QLTaiChinhCaNhan\\Demo\\GUI\\MiniForm\\AddKhoanVay.cs",
+              "RelativeDocumentMoniker": "GUI\\MiniForm\\AddKhoanVay.cs",
+              "ToolTip": "C:\\Users\\PC-Quang\\OneDrive\\Desktop\\201592-BuiTranQuang-QLtaiChinhCaNhan\\201592-BuiTranQuang-QLTaiChinhCaNhan\\Demo\\GUI\\MiniForm\\AddKhoanVay.cs",
+              "RelativeToolTip": "GUI\\MiniForm\\AddKhoanVay.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAAEUAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T21:23:48.267Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "UCNguoiDung.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\PC-Quang\\OneDrive\\Desktop\\201592-BuiTranQuang-QLtaiChinhCaNhan\\201592-BuiTranQuang-QLTaiChinhCaNhan\\Demo\\GUI\\App\\UCNguoiDung.cs",
+              "RelativeDocumentMoniker": "GUI\\App\\UCNguoiDung.cs",
+              "ToolTip": "D:\\ThucTapPLP\\BuiTranQuang\\QLTaiChinh_App\\GUI\\App\\UCNguoiDung.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T17:57:26.454Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "UCChiTieu.cs",
+              "DocumentMoniker": "C:\\Users\\PC-Quang\\OneDrive\\Desktop\\201592-BuiTranQuang-QLtaiChinhCaNhan\\201592-BuiTranQuang-QLTaiChinhCaNhan\\Demo\\GUI\\App\\UCChiTieu.cs",
+              "RelativeDocumentMoniker": "GUI\\App\\UCChiTieu.cs",
+              "ToolTip": "C:\\Users\\PC-Quang\\OneDrive\\Desktop\\201592-BuiTranQuang-QLtaiChinhCaNhan\\201592-BuiTranQuang-QLTaiChinhCaNhan\\Demo\\GUI\\App\\UCChiTieu.cs",
+              "RelativeToolTip": "GUI\\App\\UCChiTieu.cs",
+              "ViewState": "AQIAAAoBAAAAAAAAAAAswCwBAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T08:52:30.489Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "AddLoaiCT.cs",
+              "DocumentMoniker": "C:\\Users\\PC-Quang\\OneDrive\\Desktop\\201592-BuiTranQuang-QLtaiChinhCaNhan\\201592-BuiTranQuang-QLTaiChinhCaNhan\\Demo\\GUI\\MiniForm\\AddLoaiCT.cs",
+              "RelativeDocumentMoniker": "GUI\\MiniForm\\AddLoaiCT.cs",
+              "ToolTip": "C:\\Users\\PC-Quang\\OneDrive\\Desktop\\201592-BuiTranQuang-QLtaiChinhCaNhan\\201592-BuiTranQuang-QLTaiChinhCaNhan\\Demo\\GUI\\MiniForm\\AddLoaiCT.cs",
+              "RelativeToolTip": "GUI\\MiniForm\\AddLoaiCT.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAhwEMAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T21:37:05.764Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Model1.cs",
+              "DocumentMoniker": "C:\\Users\\PC-Quang\\OneDrive\\Desktop\\201592-BuiTranQuang-QLtaiChinhCaNhan\\201592-BuiTranQuang-QLTaiChinhCaNhan\\Demo\\DTO\\Model1.cs",
+              "RelativeDocumentMoniker": "DTO\\Model1.cs",
+              "ToolTip": "C:\\Users\\PC-Quang\\OneDrive\\Desktop\\201592-BuiTranQuang-QLtaiChinhCaNhan\\201592-BuiTranQuang-QLTaiChinhCaNhan\\Demo\\DTO\\Model1.cs",
+              "RelativeToolTip": "DTO\\Model1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T04:37:50.928Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "DangNhap.cs",
+              "DocumentMoniker": "C:\\Users\\PC-Quang\\OneDrive\\Desktop\\201592-BuiTranQuang-QLtaiChinhCaNhan\\201592-BuiTranQuang-QLTaiChinhCaNhan\\Demo\\GUI\\DangNhap.cs",
+              "RelativeDocumentMoniker": "GUI\\DangNhap.cs",
+              "ToolTip": "C:\\Users\\PC-Quang\\OneDrive\\Desktop\\201592-BuiTranQuang-QLtaiChinhCaNhan\\201592-BuiTranQuang-QLTaiChinhCaNhan\\Demo\\GUI\\DangNhap.cs",
+              "RelativeToolTip": "GUI\\DangNhap.cs",
+              "ViewState": "AQIAAGcAAAAAAAAAAAAhwHEAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T03:12:13.456Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "DangNhap.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\PC-Quang\\OneDrive\\Desktop\\201592-BuiTranQuang-QLtaiChinhCaNhan\\201592-BuiTranQuang-QLTaiChinhCaNhan\\Demo\\GUI\\DangNhap.cs",
+              "RelativeDocumentMoniker": "GUI\\DangNhap.cs",
+              "ToolTip": "D:\\ThucTapPLP\\BuiTranQuang\\QLTaiChinh_App\\GUI\\DangNhap.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T07:54:19.07Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "AddVi.cs",
+              "DocumentMoniker": "C:\\Users\\PC-Quang\\OneDrive\\Desktop\\201592-BuiTranQuang-QLtaiChinhCaNhan\\201592-BuiTranQuang-QLTaiChinhCaNhan\\Demo\\GUI\\MiniForm\\AddVi.cs",
+              "RelativeDocumentMoniker": "GUI\\MiniForm\\AddVi.cs",
+              "ToolTip": "C:\\Users\\PC-Quang\\OneDrive\\Desktop\\201592-BuiTranQuang-QLtaiChinhCaNhan\\201592-BuiTranQuang-QLTaiChinhCaNhan\\Demo\\GUI\\MiniForm\\AddVi.cs",
+              "RelativeToolTip": "GUI\\MiniForm\\AddVi.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAhwDYAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T06:59:32.582Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "TaiKhoanBLL.cs",
+              "DocumentMoniker": "C:\\Users\\PC-Quang\\OneDrive\\Desktop\\201592-BuiTranQuang-QLtaiChinhCaNhan\\201592-BuiTranQuang-QLTaiChinhCaNhan\\Demo\\BLL\\TaiKhoanBLL.cs",
+              "RelativeDocumentMoniker": "BLL\\TaiKhoanBLL.cs",
+              "ToolTip": "C:\\Users\\PC-Quang\\OneDrive\\Desktop\\201592-BuiTranQuang-QLtaiChinhCaNhan\\201592-BuiTranQuang-QLTaiChinhCaNhan\\Demo\\BLL\\TaiKhoanBLL.cs",
+              "RelativeToolTip": "BLL\\TaiKhoanBLL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACkAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T17:07:55.25Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "UCNguoiDung.cs",
+              "DocumentMoniker": "C:\\Users\\PC-Quang\\OneDrive\\Desktop\\201592-BuiTranQuang-QLtaiChinhCaNhan\\201592-BuiTranQuang-QLTaiChinhCaNhan\\Demo\\GUI\\App\\UCNguoiDung.cs",
+              "RelativeDocumentMoniker": "GUI\\App\\UCNguoiDung.cs",
+              "ToolTip": "C:\\Users\\PC-Quang\\OneDrive\\Desktop\\201592-BuiTranQuang-QLtaiChinhCaNhan\\201592-BuiTranQuang-QLTaiChinhCaNhan\\Demo\\GUI\\App\\UCNguoiDung.cs",
+              "RelativeToolTip": "GUI\\App\\UCNguoiDung.cs",
+              "ViewState": "AQIAADUBAAAAAAAAAAAAAEsBAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T18:02:12.084Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "C:\\Users\\PC-Quang\\OneDrive\\Desktop\\201592-BuiTranQuang-QLtaiChinhCaNhan\\201592-BuiTranQuang-QLTaiChinhCaNhan\\Demo\\GUI\\MainForm.cs",
+              "RelativeDocumentMoniker": "GUI\\MainForm.cs",
+              "ToolTip": "C:\\Users\\PC-Quang\\OneDrive\\Desktop\\201592-BuiTranQuang-QLtaiChinhCaNhan\\201592-BuiTranQuang-QLTaiChinhCaNhan\\Demo\\GUI\\MainForm.cs",
+              "RelativeToolTip": "GUI\\MainForm.cs",
+              "ViewState": "AQIAADIBAAAAAAAAAAAhwEkBAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T08:55:55.785Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "DangKy.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\PC-Quang\\OneDrive\\Desktop\\201592-BuiTranQuang-QLtaiChinhCaNhan\\201592-BuiTranQuang-QLTaiChinhCaNhan\\Demo\\GUI\\DangKy.cs",
+              "RelativeDocumentMoniker": "GUI\\DangKy.cs",
+              "ToolTip": "D:\\ThucTapPLP\\BuiTranQuang\\QLTaiChinh_App\\GUI\\DangKy.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T17:08:42.745Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "DangKy.cs",
+              "DocumentMoniker": "C:\\Users\\PC-Quang\\OneDrive\\Desktop\\201592-BuiTranQuang-QLtaiChinhCaNhan\\201592-BuiTranQuang-QLTaiChinhCaNhan\\Demo\\GUI\\DangKy.cs",
+              "RelativeDocumentMoniker": "GUI\\DangKy.cs",
+              "ToolTip": "C:\\Users\\PC-Quang\\OneDrive\\Desktop\\201592-BuiTranQuang-QLtaiChinhCaNhan\\201592-BuiTranQuang-QLTaiChinhCaNhan\\Demo\\GUI\\DangKy.cs",
+              "RelativeToolTip": "GUI\\DangKy.cs",
+              "ViewState": "AQIAAEUAAAAAAAAAAAAtwF0AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T17:08:44.388Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "ViBLL.cs",
+              "DocumentMoniker": "C:\\Users\\PC-Quang\\OneDrive\\Desktop\\201592-BuiTranQuang-QLtaiChinhCaNhan\\201592-BuiTranQuang-QLTaiChinhCaNhan\\Demo\\BLL\\ViBLL.cs",
+              "RelativeDocumentMoniker": "BLL\\ViBLL.cs",
+              "ToolTip": "C:\\Users\\PC-Quang\\OneDrive\\Desktop\\201592-BuiTranQuang-QLtaiChinhCaNhan\\201592-BuiTranQuang-QLTaiChinhCaNhan\\Demo\\BLL\\ViBLL.cs",
+              "RelativeToolTip": "BLL\\ViBLL.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABcAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T17:05:31.023Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "ChiTieuBLL.cs",
+              "DocumentMoniker": "C:\\Users\\PC-Quang\\OneDrive\\Desktop\\201592-BuiTranQuang-QLtaiChinhCaNhan\\201592-BuiTranQuang-QLTaiChinhCaNhan\\Demo\\BLL\\ChiTieuBLL.cs",
+              "RelativeDocumentMoniker": "BLL\\ChiTieuBLL.cs",
+              "ToolTip": "C:\\Users\\PC-Quang\\OneDrive\\Desktop\\201592-BuiTranQuang-QLtaiChinhCaNhan\\201592-BuiTranQuang-QLTaiChinhCaNhan\\Demo\\BLL\\ChiTieuBLL.cs",
+              "RelativeToolTip": "BLL\\ChiTieuBLL.cs",
+              "ViewState": "AQIAAEwAAAAAAAAAAAAtwGQAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T07:15:58.478Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "LoaiCTAccess.cs",
+              "DocumentMoniker": "C:\\Users\\PC-Quang\\OneDrive\\Desktop\\201592-BuiTranQuang-QLtaiChinhCaNhan\\201592-BuiTranQuang-QLTaiChinhCaNhan\\Demo\\DAL\\LoaiCTAccess.cs",
+              "RelativeDocumentMoniker": "DAL\\LoaiCTAccess.cs",
+              "ToolTip": "C:\\Users\\PC-Quang\\OneDrive\\Desktop\\201592-BuiTranQuang-QLtaiChinhCaNhan\\201592-BuiTranQuang-QLTaiChinhCaNhan\\Demo\\DAL\\LoaiCTAccess.cs",
+              "RelativeToolTip": "DAL\\LoaiCTAccess.cs",
+              "ViewState": "AQIAADsAAAAAAAAAAAAtwFcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T16:58:55.302Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "LoaiCTBLL.cs",
+              "DocumentMoniker": "C:\\Users\\PC-Quang\\OneDrive\\Desktop\\201592-BuiTranQuang-QLtaiChinhCaNhan\\201592-BuiTranQuang-QLTaiChinhCaNhan\\Demo\\BLL\\LoaiCTBLL.cs",
+              "RelativeDocumentMoniker": "BLL\\LoaiCTBLL.cs",
+              "ToolTip": "C:\\Users\\PC-Quang\\OneDrive\\Desktop\\201592-BuiTranQuang-QLtaiChinhCaNhan\\201592-BuiTranQuang-QLTaiChinhCaNhan\\Demo\\BLL\\LoaiCTBLL.cs",
+              "RelativeToolTip": "BLL\\LoaiCTBLL.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAtwDcAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T18:41:37.668Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "UCTongQuan.cs",
+              "DocumentMoniker": "C:\\Users\\PC-Quang\\OneDrive\\Desktop\\201592-BuiTranQuang-QLtaiChinhCaNhan\\201592-BuiTranQuang-QLTaiChinhCaNhan\\Demo\\GUI\\App\\UCTongQuan.cs",
+              "RelativeDocumentMoniker": "GUI\\App\\UCTongQuan.cs",
+              "ToolTip": "C:\\Users\\PC-Quang\\OneDrive\\Desktop\\201592-BuiTranQuang-QLtaiChinhCaNhan\\201592-BuiTranQuang-QLTaiChinhCaNhan\\Demo\\GUI\\App\\UCTongQuan.cs",
+              "RelativeToolTip": "GUI\\App\\UCTongQuan.cs",
+              "ViewState": "AQIAAHQAAAAAAAAAAAAtwGIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T18:01:45.197Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "packages.config",
+              "DocumentMoniker": "C:\\Users\\PC-Quang\\OneDrive\\Desktop\\201592-BuiTranQuang-QLtaiChinhCaNhan\\201592-BuiTranQuang-QLTaiChinhCaNhan\\Demo\\GUI\\packages.config",
+              "RelativeDocumentMoniker": "GUI\\packages.config",
+              "ToolTip": "C:\\Users\\PC-Quang\\OneDrive\\Desktop\\201592-BuiTranQuang-QLtaiChinhCaNhan\\201592-BuiTranQuang-QLTaiChinhCaNhan\\Demo\\GUI\\packages.config",
+              "RelativeToolTip": "GUI\\packages.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-05-22T17:28:17.261Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "MainForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\PC-Quang\\OneDrive\\Desktop\\201592-BuiTranQuang-QLtaiChinhCaNhan\\201592-BuiTranQuang-QLTaiChinhCaNhan\\Demo\\GUI\\MainForm.Designer.cs",
+              "RelativeDocumentMoniker": "GUI\\MainForm.Designer.cs",
+              "ToolTip": "C:\\Users\\PC-Quang\\OneDrive\\Desktop\\201592-BuiTranQuang-QLtaiChinhCaNhan\\201592-BuiTranQuang-QLTaiChinhCaNhan\\Demo\\GUI\\MainForm.Designer.cs",
+              "RelativeToolTip": "GUI\\MainForm.Designer.cs",
+              "ViewState": "AQIAABEBAAAAAAAAAAAtwCkBAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T17:31:31.907Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "UCTongQuan.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\PC-Quang\\OneDrive\\Desktop\\201592-BuiTranQuang-QLtaiChinhCaNhan\\201592-BuiTranQuang-QLTaiChinhCaNhan\\Demo\\GUI\\App\\UCTongQuan.cs",
+              "RelativeDocumentMoniker": "GUI\\App\\UCTongQuan.cs",
+              "ToolTip": "D:\\ThucTapPLP\\BuiTranQuang\\QLTaiChinh_App\\GUI\\App\\UCTongQuan.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T18:01:43.035Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "UCCacTaiKhoan.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\PC-Quang\\OneDrive\\Desktop\\201592-BuiTranQuang-QLtaiChinhCaNhan\\201592-BuiTranQuang-QLTaiChinhCaNhan\\Demo\\GUI\\App\\UCCacTaiKhoan.cs",
+              "RelativeDocumentMoniker": "GUI\\App\\UCCacTaiKhoan.cs",
+              "ToolTip": "D:\\ThucTapPLP\\BuiTranQuang\\QLTaiChinh_App\\GUI\\App\\UCCacTaiKhoan.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T16:40:34.895Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "UCCacTaiKhoan.cs",
+              "DocumentMoniker": "C:\\Users\\PC-Quang\\OneDrive\\Desktop\\201592-BuiTranQuang-QLtaiChinhCaNhan\\201592-BuiTranQuang-QLTaiChinhCaNhan\\Demo\\GUI\\App\\UCCacTaiKhoan.cs",
+              "RelativeDocumentMoniker": "GUI\\App\\UCCacTaiKhoan.cs",
+              "ToolTip": "C:\\Users\\PC-Quang\\OneDrive\\Desktop\\201592-BuiTranQuang-QLtaiChinhCaNhan\\201592-BuiTranQuang-QLTaiChinhCaNhan\\Demo\\GUI\\App\\UCCacTaiKhoan.cs",
+              "RelativeToolTip": "GUI\\App\\UCCacTaiKhoan.cs",
+              "ViewState": "AQIAAEEAAAAAAAAAAAAtwFAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T06:27:28.288Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "ViAccess.cs",
+              "DocumentMoniker": "C:\\Users\\PC-Quang\\OneDrive\\Desktop\\201592-BuiTranQuang-QLtaiChinhCaNhan\\201592-BuiTranQuang-QLTaiChinhCaNhan\\Demo\\DAL\\ViAccess.cs",
+              "RelativeDocumentMoniker": "DAL\\ViAccess.cs",
+              "ToolTip": "C:\\Users\\PC-Quang\\OneDrive\\Desktop\\201592-BuiTranQuang-QLtaiChinhCaNhan\\201592-BuiTranQuang-QLTaiChinhCaNhan\\Demo\\DAL\\ViAccess.cs",
+              "RelativeToolTip": "DAL\\ViAccess.cs",
+              "ViewState": "AQIAAIwAAAAAAAAAAAAowKwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T17:58:34.817Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "UCChiTieu.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\PC-Quang\\OneDrive\\Desktop\\201592-BuiTranQuang-QLtaiChinhCaNhan\\201592-BuiTranQuang-QLTaiChinhCaNhan\\Demo\\GUI\\App\\UCChiTieu.Designer.cs",
+              "RelativeDocumentMoniker": "GUI\\App\\UCChiTieu.Designer.cs",
+              "ToolTip": "C:\\Users\\PC-Quang\\OneDrive\\Desktop\\201592-BuiTranQuang-QLtaiChinhCaNhan\\201592-BuiTranQuang-QLTaiChinhCaNhan\\Demo\\GUI\\App\\UCChiTieu.Designer.cs",
+              "RelativeToolTip": "GUI\\App\\UCChiTieu.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGUBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T17:42:14.484Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\PC-Quang\\OneDrive\\Desktop\\201592-BuiTranQuang-QLtaiChinhCaNhan\\201592-BuiTranQuang-QLTaiChinhCaNhan\\Demo\\DTO\\App.config",
+              "RelativeDocumentMoniker": "DTO\\App.config",
+              "ToolTip": "C:\\Users\\PC-Quang\\OneDrive\\Desktop\\201592-BuiTranQuang-QLtaiChinhCaNhan\\201592-BuiTranQuang-QLTaiChinhCaNhan\\Demo\\DTO\\App.config",
+              "RelativeToolTip": "DTO\\App.config",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAACUAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-05-21T16:50:48.774Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "DangNhap.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\PC-Quang\\OneDrive\\Desktop\\201592-BuiTranQuang-QLtaiChinhCaNhan\\201592-BuiTranQuang-QLTaiChinhCaNhan\\Demo\\GUI\\DangNhap.Designer.cs",
+              "RelativeDocumentMoniker": "GUI\\DangNhap.Designer.cs",
+              "ToolTip": "C:\\Users\\PC-Quang\\OneDrive\\Desktop\\201592-BuiTranQuang-QLtaiChinhCaNhan\\201592-BuiTranQuang-QLTaiChinhCaNhan\\Demo\\GUI\\DangNhap.Designer.cs",
+              "RelativeToolTip": "GUI\\DangNhap.Designer.cs",
+              "ViewState": "AQIAAI0AAAAAAAAAAAAtwKQAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T04:53:50.9Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "AddKhoanVay.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\PC-Quang\\OneDrive\\Desktop\\201592-BuiTranQuang-QLtaiChinhCaNhan\\201592-BuiTranQuang-QLTaiChinhCaNhan\\Demo\\GUI\\MiniForm\\AddKhoanVay.Designer.cs",
+              "RelativeDocumentMoniker": "GUI\\MiniForm\\AddKhoanVay.Designer.cs",
+              "ToolTip": "C:\\Users\\PC-Quang\\OneDrive\\Desktop\\201592-BuiTranQuang-QLtaiChinhCaNhan\\201592-BuiTranQuang-QLTaiChinhCaNhan\\Demo\\GUI\\MiniForm\\AddKhoanVay.Designer.cs",
+              "RelativeToolTip": "GUI\\MiniForm\\AddKhoanVay.Designer.cs",
+              "ViewState": "AQIAAGAAAAAAAAAAAAAtwHEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T21:24:03.059Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "UCCacTaiKhoan.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\PC-Quang\\OneDrive\\Desktop\\201592-BuiTranQuang-QLtaiChinhCaNhan\\201592-BuiTranQuang-QLTaiChinhCaNhan\\Demo\\GUI\\App\\UCCacTaiKhoan.Designer.cs",
+              "RelativeDocumentMoniker": "GUI\\App\\UCCacTaiKhoan.Designer.cs",
+              "ToolTip": "C:\\Users\\PC-Quang\\OneDrive\\Desktop\\201592-BuiTranQuang-QLtaiChinhCaNhan\\201592-BuiTranQuang-QLTaiChinhCaNhan\\Demo\\GUI\\App\\UCCacTaiKhoan.Designer.cs",
+              "RelativeToolTip": "GUI\\App\\UCCacTaiKhoan.Designer.cs",
+              "ViewState": "AQIAANYAAAAAAAAAAAAowPAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T16:35:38.627Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

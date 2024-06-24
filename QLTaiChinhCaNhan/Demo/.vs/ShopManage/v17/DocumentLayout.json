@@ -1,0 +1,253 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ThucTapPLP\\QuanLyChiTieuCaNhan_PLP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DD9FF0E9-17CF-4D0B-A82A-183E8D7A7F03}|ShopManage\\GUI.csproj|d:\\thuctapplp\\quanlychitieucanhan_plp\\shopmanage\\dangnhap.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD9FF0E9-17CF-4D0B-A82A-183E8D7A7F03}|ShopManage\\GUI.csproj|solutionrelative:shopmanage\\dangnhap.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A471594-DEAE-43F4-92EF-4DFF1C58962B}|BLL\\BLL.csproj|d:\\thuctapplp\\quanlychitieucanhan_plp\\bll\\taikhoanbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A471594-DEAE-43F4-92EF-4DFF1C58962B}|BLL\\BLL.csproj|solutionrelative:bll\\taikhoanbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD9FF0E9-17CF-4D0B-A82A-183E8D7A7F03}|ShopManage\\GUI.csproj|d:\\thuctapplp\\quanlychitieucanhan_plp\\shopmanage\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD9FF0E9-17CF-4D0B-A82A-183E8D7A7F03}|ShopManage\\GUI.csproj|solutionrelative:shopmanage\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD9FF0E9-17CF-4D0B-A82A-183E8D7A7F03}|ShopManage\\GUI.csproj|D:\\ThucTapPLP\\QuanLyChiTieuCaNhan_PLP\\shopmanage\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD9FF0E9-17CF-4D0B-A82A-183E8D7A7F03}|ShopManage\\GUI.csproj|solutionrelative:shopmanage\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD9FF0E9-17CF-4D0B-A82A-183E8D7A7F03}|ShopManage\\GUI.csproj|d:\\thuctapplp\\quanlychitieucanhan_plp\\shopmanage\\dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD9FF0E9-17CF-4D0B-A82A-183E8D7A7F03}|ShopManage\\GUI.csproj|solutionrelative:shopmanage\\dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD9FF0E9-17CF-4D0B-A82A-183E8D7A7F03}|ShopManage\\GUI.csproj|D:\\ThucTapPLP\\QuanLyChiTieuCaNhan_PLP\\shopmanage\\dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DD9FF0E9-17CF-4D0B-A82A-183E8D7A7F03}|ShopManage\\GUI.csproj|solutionrelative:shopmanage\\dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD9FF0E9-17CF-4D0B-A82A-183E8D7A7F03}|ShopManage\\GUI.csproj|d:\\thuctapplp\\quanlychitieucanhan_plp\\shopmanage\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD9FF0E9-17CF-4D0B-A82A-183E8D7A7F03}|ShopManage\\GUI.csproj|solutionrelative:shopmanage\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD9FF0E9-17CF-4D0B-A82A-183E8D7A7F03}|ShopManage\\ShopManage.csproj|D:\\ThucTapPLP\\QuanLyChiTieuCaNhan_PLP\\shopmanage\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD9FF0E9-17CF-4D0B-A82A-183E8D7A7F03}|ShopManage\\ShopManage.csproj|solutionrelative:shopmanage\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD9FF0E9-17CF-4D0B-A82A-183E8D7A7F03}|ShopManage\\GUI.csproj|d:\\thuctapplp\\quanlychitieucanhan_plp\\shopmanage\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DD9FF0E9-17CF-4D0B-A82A-183E8D7A7F03}|ShopManage\\GUI.csproj|solutionrelative:shopmanage\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{414CFEBD-FED8-4E5B-8767-68AF5A0267EB}|DTO\\DTO.csproj|D:\\ThucTapPLP\\QuanLyChiTieuCaNhan_PLP\\dto\\taikhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{414CFEBD-FED8-4E5B-8767-68AF5A0267EB}|DTO\\DTO.csproj|solutionrelative:dto\\taikhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{414CFEBD-FED8-4E5B-8767-68AF5A0267EB}|DTO\\DTO.csproj|D:\\ThucTapPLP\\QuanLyChiTieuCaNhan_PLP\\dto\\quyen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{414CFEBD-FED8-4E5B-8767-68AF5A0267EB}|DTO\\DTO.csproj|solutionrelative:dto\\quyen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BC695DC-34E2-4282-B563-57E68D4F6F68}|DAL\\DAL.csproj|d:\\thuctapplp\\quanlychitieucanhan_plp\\dal\\taikhoanaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BC695DC-34E2-4282-B563-57E68D4F6F68}|DAL\\DAL.csproj|solutionrelative:dal\\taikhoanaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BC695DC-34E2-4282-B563-57E68D4F6F68}|DAL\\DAL.csproj|D:\\ThucTapPLP\\QuanLyChiTieuCaNhan_PLP\\dal\\databaseaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BC695DC-34E2-4282-B563-57E68D4F6F68}|DAL\\DAL.csproj|solutionrelative:dal\\databaseaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD9FF0E9-17CF-4D0B-A82A-183E8D7A7F03}|ShopManage\\ShopManage.csproj|D:\\ThucTapPLP\\QuanLyChiTieuCaNhan_PLP\\shopmanage\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DD9FF0E9-17CF-4D0B-A82A-183E8D7A7F03}|ShopManage\\ShopManage.csproj|solutionrelative:shopmanage\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DangNhap.Designer.cs",
+              "DocumentMoniker": "D:\\ThucTapPLP\\QuanLyChiTieuCaNhan_PLP\\ShopManage\\DangNhap.Designer.cs",
+              "RelativeDocumentMoniker": "ShopManage\\DangNhap.Designer.cs",
+              "ToolTip": "D:\\ThucTapPLP\\QuanLyChiTieuCaNhan_PLP\\ShopManage\\DangNhap.Designer.cs",
+              "RelativeToolTip": "ShopManage\\DangNhap.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T11:44:53.839Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DangNhap.cs",
+              "DocumentMoniker": "D:\\ThucTapPLP\\QuanLyChiTieuCaNhan_PLP\\ShopManage\\DangNhap.cs",
+              "RelativeDocumentMoniker": "ShopManage\\DangNhap.cs",
+              "ToolTip": "D:\\ThucTapPLP\\QuanLyChiTieuCaNhan_PLP\\ShopManage\\DangNhap.cs",
+              "RelativeToolTip": "ShopManage\\DangNhap.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T16:50:13.312Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ThucTapPLP\\QuanLyChiTieuCaNhan_PLP\\ShopManage\\Program.cs",
+              "RelativeDocumentMoniker": "ShopManage\\Program.cs",
+              "ToolTip": "D:\\ThucTapPLP\\QuanLyChiTieuCaNhan_PLP\\ShopManage\\Program.cs",
+              "RelativeToolTip": "ShopManage\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T16:30:02.129Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "D:\\ThucTapPLP\\QuanLyChiTieuCaNhan_PLP\\ShopManage\\Properties\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "ShopManage\\Properties\\AssemblyInfo.cs",
+              "ToolTip": "D:\\ThucTapPLP\\QuanLyChiTieuCaNhan_PLP\\ShopManage\\Properties\\AssemblyInfo.cs",
+              "RelativeToolTip": "ShopManage\\Properties\\AssemblyInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T11:43:00.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TaiKhoanBLL.cs",
+              "DocumentMoniker": "D:\\ThucTapPLP\\QuanLyChiTieuCaNhan_PLP\\BLL\\TaiKhoanBLL.cs",
+              "RelativeDocumentMoniker": "BLL\\TaiKhoanBLL.cs",
+              "ToolTip": "D:\\ThucTapPLP\\QuanLyChiTieuCaNhan_PLP\\BLL\\TaiKhoanBLL.cs",
+              "RelativeToolTip": "BLL\\TaiKhoanBLL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T11:38:24.826Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DangNhap.cs [Design]",
+              "DocumentMoniker": "D:\\ThucTapPLP\\QuanLyChiTieuCaNhan_PLP\\ShopManage\\DangNhap.cs",
+              "RelativeDocumentMoniker": "ShopManage\\DangNhap.cs",
+              "ToolTip": "D:\\ThucTapPLP\\QuanLyChiTieuCaNhan_PLP\\ShopManage\\DangNhap.cs [Design]",
+              "RelativeToolTip": "ShopManage\\DangNhap.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T16:27:55.178Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\ThucTapPLP\\QuanLyChiTieuCaNhan_PLP\\ShopManage\\Form1.cs",
+              "RelativeDocumentMoniker": "ShopManage\\Form1.cs",
+              "ToolTip": "D:\\ThucTapPLP\\QuanLyChiTieuCaNhan_PLP\\ShopManage\\Form1.cs",
+              "RelativeToolTip": "ShopManage\\Form1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T11:23:15.188Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\ThucTapPLP\\QuanLyChiTieuCaNhan_PLP\\ShopManage\\Form1.cs",
+              "RelativeDocumentMoniker": "ShopManage\\Form1.cs",
+              "ToolTip": "D:\\ThucTapPLP\\QuanLyChiTieuCaNhan_PLP\\ShopManage\\Form1.cs",
+              "RelativeToolTip": "ShopManage\\Form1.cs",
+              "ViewState": "AQIAAIEAAAAAAAAAAAAqwJgAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T15:39:24.59Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\ThucTapPLP\\QuanLyChiTieuCaNhan_PLP\\ShopManage\\Form1.cs",
+              "RelativeDocumentMoniker": "ShopManage\\Form1.cs",
+              "ToolTip": "D:\\ThucTapPLP\\QuanLyChiTieuCaNhan_PLP\\ShopManage\\Form1.cs [Design]",
+              "RelativeToolTip": "ShopManage\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T11:23:21.18Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TaiKhoan.cs",
+              "DocumentMoniker": "D:\\ThucTapPLP\\QuanLyChiTieuCaNhan_PLP\\DTO\\TaiKhoan.cs",
+              "RelativeDocumentMoniker": "DTO\\TaiKhoan.cs",
+              "ToolTip": "D:\\ThucTapPLP\\QuanLyChiTieuCaNhan_PLP\\DTO\\TaiKhoan.cs",
+              "RelativeToolTip": "DTO\\TaiKhoan.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T14:38:02.874Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Quyen.cs",
+              "DocumentMoniker": "D:\\ThucTapPLP\\QuanLyChiTieuCaNhan_PLP\\DTO\\Quyen.cs",
+              "RelativeDocumentMoniker": "DTO\\Quyen.cs",
+              "ToolTip": "D:\\ThucTapPLP\\QuanLyChiTieuCaNhan_PLP\\DTO\\Quyen.cs",
+              "RelativeToolTip": "DTO\\Quyen.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T14:40:36.83Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TaiKhoanAccess.cs",
+              "DocumentMoniker": "D:\\ThucTapPLP\\QuanLyChiTieuCaNhan_PLP\\DAL\\TaiKhoanAccess.cs",
+              "RelativeDocumentMoniker": "DAL\\TaiKhoanAccess.cs",
+              "ToolTip": "D:\\ThucTapPLP\\QuanLyChiTieuCaNhan_PLP\\DAL\\TaiKhoanAccess.cs",
+              "RelativeToolTip": "DAL\\TaiKhoanAccess.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T11:23:01.133Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DatabaseAccess.cs",
+              "DocumentMoniker": "D:\\ThucTapPLP\\QuanLyChiTieuCaNhan_PLP\\DAL\\DatabaseAccess.cs",
+              "RelativeDocumentMoniker": "DAL\\DatabaseAccess.cs",
+              "ToolTip": "D:\\ThucTapPLP\\QuanLyChiTieuCaNhan_PLP\\DAL\\DatabaseAccess.cs",
+              "RelativeToolTip": "DAL\\DatabaseAccess.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T14:42:42.274Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\ThucTapPLP\\QuanLyChiTieuCaNhan_PLP\\ShopManage\\Form1.cs",
+              "RelativeDocumentMoniker": "ShopManage\\Form1.cs",
+              "ToolTip": "D:\\ThucTapPLP\\QuanLyChiTieuCaNhan_PLP\\ShopManage\\Form1.cs [Design]",
+              "RelativeToolTip": "ShopManage\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T15:36:57.337Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
